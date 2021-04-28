@@ -72,7 +72,15 @@
  *   #include "TemperatureSensor.h"                                           *
  *----------------------------------------------------------------------------*/
 #include "StepperMotor.h"
+#include <cstring>
 
+
+SPIConfig ls_spicfg = {
+        NULL,
+        LINE_SPI1_CS,
+        ADUCM_SPI_CON_CPOL | ADUCM_SPI_CON_CPHA,
+        ADUCM_SPI_DIV_2 | ADUCM_SPI_DIV_1 | ADUCM_SPI_DIV_0
+};
 
 /* Classes -------------------------------------------------------------------*/
 
@@ -1247,7 +1255,7 @@ public:
     {
         // OLD attachInterrupt(busy_irq, fptr, FALLING);
         palEnableLineEvent(busy_irq, PAL_EVENT_MODE_FALLING_EDGE);
-        palSetLineCallback(fbusy_irq, fptr, NULL);
+        palSetLineCallback(busy_irq, fptr, NULL);
     }
 
     /*
@@ -1379,12 +1387,6 @@ protected:
 
     /*** Component's I/O Methods ***/
 
-    const SPIConfig ls_spicfg = {
-    NULL,
-    LINE_SPI1_CS,
-    ADUCM_SPI_CON_CPOL | ADUCM_SPI_CON_CPHA,
-    ADUCM_SPI_DIV_2 | ADUCM_SPI_DIV_1 | ADUCM_SPI_DIV_0
-    };
 
     /**
      * @brief      Utility function to read data from L6470.

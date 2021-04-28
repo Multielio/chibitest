@@ -113,18 +113,23 @@ include $(CHIBIOS)/test/lib/test.mk
 include $(CHIBIOS)/test/rt/rt_test.mk
 include $(CHIBIOS)/test/oslib/oslib_test.mk
 
-include ./lib/user.mk
+# Projet  lib
+include ./lib/motor/motor.mk
+
 # Define linker script file here
 LDSCRIPT= $(STARTUPLD)/STM32F446xE.ld
 
 # C sources that can be compiled in ARM or THUMB mode depending on the global
 # setting.
 CSRC = $(ALLCSRC) \
-       $(TESTSRC) 
+       $(TESTSRC) \
+       $(COMMONCSRC)
 
 # C++ sources that can be compiled in ARM or THUMB mode depending on the global
 # setting.
-CPPSRC = $(ALLCPPSRC) main.cpp
+CPPSRC = $(ALLCPPSRC) \
+         $(COMMONCPPSRC) \
+         main.cpp
 
 # List ASM source files here.
 ASMSRC = $(ALLASMSRC)
@@ -133,7 +138,7 @@ ASMSRC = $(ALLASMSRC)
 ASMXSRC = $(ALLXASMSRC)
 
 # Inclusion directories.
-INCDIR = $(CONFDIR) $(ALLINC) $(TESTINC) ./lib
+INCDIR = $(CONFDIR) $(ALLINC) $(TESTINC) $(COMMONINC) 
 
 # Define C warning options here.
 CWARN = -Wall -Wextra -Wundef -Wstrict-prototypes
