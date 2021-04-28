@@ -16,9 +16,6 @@
 
 #include "ch.h"
 #include "hal.h"
-#include "rt_test_root.h"
-#include "oslib_test_root.h"
-#include "frenquency.h"
 #include "XNucleoIHM02A1.h"
 
 
