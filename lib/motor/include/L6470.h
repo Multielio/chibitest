@@ -80,10 +80,9 @@
 
 
 */
-SPIConfig ls_spicfg = {
+static const SPIConfig ls_spicfg = {
         false,
         NULL,
-        SPI_SELECT_MODE_NONE,
         SPI_CR1_BR_1 | SPI_CR1_CPOL | SPI_CR1_CPHA |  SPI_CR1_BR_0 | SPI_CR1_SPE,
         SPI_CR2_SSOE 
 };
@@ -1245,25 +1244,27 @@ public:
      * @param  fptr An interrupt handler.
      * @retval None.
      */
+    /*
     void attach_flag_irq(void (*fptr)(void))
     {
         // OLD  attachInterrupt(flag_irq, fptr, FALLING);
         palEnableLineEvent(flag_irq, PAL_EVENT_MODE_FALLING_EDGE);
         palSetLineCallback(flag_irq, fptr, NULL);
     }
-
+    */
     /**
      * @brief  Attaching an interrupt handler to the BUSY interrupt.
      * @param  fptr An interrupt handler.
      * @retval None.
      */
+    /*
     void attach_busy_irq(void (*fptr)(void))
     {
         // OLD attachInterrupt(busy_irq, fptr, FALLING);
         palEnableLineEvent(busy_irq, PAL_EVENT_MODE_FALLING_EDGE);
         palSetLineCallback(busy_irq, fptr, NULL);
     }
-
+    */
     /*
      * Puts the device in standby mode.
      */

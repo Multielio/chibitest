@@ -70,7 +70,7 @@ uint8_t XNucleoIHM02A1::number_of_boards = 0;
  * @param ssel          pin name of the SSEL pin of the SPI device to be used for communication.
  * @param spi           SPI device to be used for communication.
  */
-XNucleoIHM02A1::XNucleoIHM02A1(L6470_init_t *init_0, L6470_init_t *init_1, ioline_t flag_irq, ioline_t  busy_irq, ioline_t standby_reset, ioline_t ssel) : 
+XNucleoIHM02A1::XNucleoIHM02A1(L6470_init_t *init_0, L6470_init_t *init_1, ioline_t flag_irq, ioline_t  busy_irq, ioline_t standby_reset, ioline_t ssel) 
 {
     // Les pins ssel et standby_reset sont initialisé
     // comme il faut:
