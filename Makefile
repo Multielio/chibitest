@@ -161,10 +161,10 @@ UDEFS =
 UADEFS = 
 
 # List all user directories here
-UINCDIR = lib
+UINCDIR = 
 
 # List the user directory to look for the libraries here
-ULIBDIR =  lib 
+ULIBDIR =  
 
 # List all user libraries here
 ULIBS = 

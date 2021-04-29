@@ -74,12 +74,18 @@
 #include "StepperMotor.h"
 #include <cstring>
 
+/*
 
+(SSM=0,SSOE = 1) 
+
+
+*/
 SPIConfig ls_spicfg = {
+        false,
         NULL,
-        LINE_SPI1_CS,
-        ADUCM_SPI_CON_CPOL | ADUCM_SPI_CON_CPHA,
-        ADUCM_SPI_DIV_2 | ADUCM_SPI_DIV_1 | ADUCM_SPI_DIV_0
+        SPI_SELECT_MODE_NONE,
+        SPI_CR1_BR_1 | SPI_CR1_CPOL | SPI_CR1_CPHA |  SPI_CR1_BR_0 | SPI_CR1_SPE,
+        SPI_CR2_SSOE 
 };
 
 /* Classes -------------------------------------------------------------------*/

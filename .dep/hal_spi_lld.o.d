@@ -1,5 +1,5 @@
-build/obj/rt_test_sequence_011.o: \
- ../../../test/rt/source/test/rt_test_sequence_011.c \
+build/obj/hal_spi_lld.o: \
+ ../../../os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.c \
  ../../../os/hal/include/hal.h ../../../os/hal/osal/rt-nil/osal.h \
  /usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
  /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h \
@@ -81,19 +81,7 @@ build/obj/rt_test_sequence_011.o: \
  ../../../os/hal/include/hal_wspi.h ../../../os/hal/include/hal_st.h \
  ../../../os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h \
  ../../../os/hal/include/hal_mmc_spi.h \
- ../../../os/hal/include/hal_serial_usb.h \
- ../../../test/rt/source/test/rt_test_root.h ../../../test/lib/ch_test.h \
- ../../../test/rt/source/test/rt_test_sequence_001.h \
- ../../../test/rt/source/test/rt_test_sequence_002.h \
- ../../../test/rt/source/test/rt_test_sequence_003.h \
- ../../../test/rt/source/test/rt_test_sequence_004.h \
- ../../../test/rt/source/test/rt_test_sequence_005.h \
- ../../../test/rt/source/test/rt_test_sequence_006.h \
- ../../../test/rt/source/test/rt_test_sequence_007.h \
- ../../../test/rt/source/test/rt_test_sequence_008.h \
- ../../../test/rt/source/test/rt_test_sequence_009.h \
- ../../../test/rt/source/test/rt_test_sequence_010.h \
- ../../../test/rt/source/test/rt_test_sequence_011.h
+ ../../../os/hal/include/hal_serial_usb.h
 
 ../../../os/hal/include/hal.h:
 
@@ -314,29 +302,3 @@ cfg/mcuconf.h:
 ../../../os/hal/include/hal_mmc_spi.h:
 
 ../../../os/hal/include/hal_serial_usb.h:
-
-../../../test/rt/source/test/rt_test_root.h:
-
-../../../test/lib/ch_test.h:
-
-../../../test/rt/source/test/rt_test_sequence_001.h:
-
-../../../test/rt/source/test/rt_test_sequence_002.h:
-
-../../../test/rt/source/test/rt_test_sequence_003.h:
-
-../../../test/rt/source/test/rt_test_sequence_004.h:
-
-../../../test/rt/source/test/rt_test_sequence_005.h:
-
-../../../test/rt/source/test/rt_test_sequence_006.h:
-
-../../../test/rt/source/test/rt_test_sequence_007.h:
-
-../../../test/rt/source/test/rt_test_sequence_008.h:
-
-../../../test/rt/source/test/rt_test_sequence_009.h:
-
-../../../test/rt/source/test/rt_test_sequence_010.h:
-
-../../../test/rt/source/test/rt_test_sequence_011.h:

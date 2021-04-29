@@ -1,10 +1,12 @@
-build/obj/main.o: main.c ../../../os/rt/include/ch.h cfg/chconf.h \
- ../../../os/rt/include/chchecks.h ../../../os/license/chlicense.h \
- ../../../os/license/chcustomer.h ../../../os/rt/include/chrestrictions.h \
- ../../../os/common/ports/ARMCMx/compilers/GCC/chtypes.h \
+build/obj/hal_spi.o: ../../../os/hal/src/hal_spi.c \
+ ../../../os/hal/include/hal.h ../../../os/hal/osal/rt-nil/osal.h \
  /usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
  /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h \
  /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h \
+ ../../../os/rt/include/ch.h cfg/chconf.h \
+ ../../../os/rt/include/chchecks.h ../../../os/license/chlicense.h \
+ ../../../os/license/chcustomer.h ../../../os/rt/include/chrestrictions.h \
+ ../../../os/common/ports/ARMCMx/compilers/GCC/chtypes.h \
  ../../../os/rt/include/chsystypes.h ../../../os/rt/include/chdebug.h \
  ../../../os/rt/include/chtime.h ../../../os/rt/include/chalign.h \
  ../../../os/common/ports/ARMCMx/chcore.h \
@@ -38,8 +40,7 @@ build/obj/main.o: main.c ../../../os/rt/include/ch.h cfg/chconf.h \
  ../../../os/oslib/include/chdelegates.h \
  /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h \
  ../../../os/oslib/include/chjobs.h ../../../os/oslib/include/chfactory.h \
- ../../../os/rt/include/chdynamic.h ../../../os/hal/include/hal.h \
- ../../../os/hal/osal/rt-nil/osal.h cfg/halconf.h cfg/mcuconf.h \
+ ../../../os/rt/include/chdynamic.h cfg/halconf.h cfg/mcuconf.h \
  ../../../os/hal/ports/STM32/STM32F4xx/hal_lld.h \
  ../../../os/hal/ports/STM32/STM32F4xx/stm32_registry.h \
  ../../../os/hal/ports/STM32/STM32F4xx/hal_lld_type1.h \
@@ -72,36 +73,24 @@ build/obj/main.o: main.c ../../../os/rt/include/ch.h cfg/chconf.h \
  ../../../os/hal/include/hal_serial.h \
  ../../../os/hal/ports/STM32/LLD/USARTv1/hal_serial_lld.h \
  ../../../os/hal/include/hal_sdc.h ../../../os/hal/include/hal_sio.h \
- ../../../os/hal/include/hal_spi.h ../../../os/hal/include/hal_trng.h \
- ../../../os/hal/include/hal_uart.h ../../../os/hal/include/hal_usb.h \
- ../../../os/hal/include/hal_wdg.h ../../../os/hal/include/hal_wspi.h \
- ../../../os/hal/include/hal_st.h \
+ ../../../os/hal/include/hal_spi.h \
+ ../../../os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.h \
+ ../../../os/hal/include/hal_trng.h ../../../os/hal/include/hal_uart.h \
+ ../../../os/hal/include/hal_usb.h ../../../os/hal/include/hal_wdg.h \
+ ../../../os/hal/include/hal_wspi.h ../../../os/hal/include/hal_st.h \
  ../../../os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h \
  ../../../os/hal/include/hal_mmc_spi.h \
- ../../../os/hal/include/hal_serial_usb.h \
- ../../../test/rt/source/test/rt_test_root.h ../../../test/lib/ch_test.h \
- ../../../test/rt/source/test/rt_test_sequence_001.h \
- ../../../test/rt/source/test/rt_test_sequence_002.h \
- ../../../test/rt/source/test/rt_test_sequence_003.h \
- ../../../test/rt/source/test/rt_test_sequence_004.h \
- ../../../test/rt/source/test/rt_test_sequence_005.h \
- ../../../test/rt/source/test/rt_test_sequence_006.h \
- ../../../test/rt/source/test/rt_test_sequence_007.h \
- ../../../test/rt/source/test/rt_test_sequence_008.h \
- ../../../test/rt/source/test/rt_test_sequence_009.h \
- ../../../test/rt/source/test/rt_test_sequence_010.h \
- ../../../test/rt/source/test/rt_test_sequence_011.h \
- ../../../test/oslib/source/test/oslib_test_root.h \
- ../../../test/oslib/source/test/oslib_test_sequence_001.h \
- ../../../test/oslib/source/test/oslib_test_sequence_002.h \
- ../../../test/oslib/source/test/oslib_test_sequence_003.h \
- ../../../test/oslib/source/test/oslib_test_sequence_004.h \
- ../../../test/oslib/source/test/oslib_test_sequence_005.h \
- ../../../test/oslib/source/test/oslib_test_sequence_006.h \
- ../../../test/oslib/source/test/oslib_test_sequence_007.h \
- ../../../test/oslib/source/test/oslib_test_sequence_008.h \
- ../../../test/oslib/source/test/oslib_test_sequence_009.h \
- lib/frenquency.h
+ ../../../os/hal/include/hal_serial_usb.h
+
+../../../os/hal/include/hal.h:
+
+../../../os/hal/osal/rt-nil/osal.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h:
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h:
 
 ../../../os/rt/include/ch.h:
 
@@ -116,12 +105,6 @@ cfg/chconf.h:
 ../../../os/rt/include/chrestrictions.h:
 
 ../../../os/common/ports/ARMCMx/compilers/GCC/chtypes.h:
-
-/usr/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h:
-
-/usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h:
-
-/usr/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h:
 
 ../../../os/rt/include/chsystypes.h:
 
@@ -213,10 +196,6 @@ cfg/chconf.h:
 
 ../../../os/rt/include/chdynamic.h:
 
-../../../os/hal/include/hal.h:
-
-../../../os/hal/osal/rt-nil/osal.h:
-
 cfg/halconf.h:
 
 cfg/mcuconf.h:
@@ -303,6 +282,8 @@ cfg/mcuconf.h:
 
 ../../../os/hal/include/hal_spi.h:
 
+../../../os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.h:
+
 ../../../os/hal/include/hal_trng.h:
 
 ../../../os/hal/include/hal_uart.h:
@@ -320,51 +301,3 @@ cfg/mcuconf.h:
 ../../../os/hal/include/hal_mmc_spi.h:
 
 ../../../os/hal/include/hal_serial_usb.h:
-
-../../../test/rt/source/test/rt_test_root.h:
-
-../../../test/lib/ch_test.h:
-
-../../../test/rt/source/test/rt_test_sequence_001.h:
-
-../../../test/rt/source/test/rt_test_sequence_002.h:
-
-../../../test/rt/source/test/rt_test_sequence_003.h:
-
-../../../test/rt/source/test/rt_test_sequence_004.h:
-
-../../../test/rt/source/test/rt_test_sequence_005.h:
-
-../../../test/rt/source/test/rt_test_sequence_006.h:
-
-../../../test/rt/source/test/rt_test_sequence_007.h:
-
-../../../test/rt/source/test/rt_test_sequence_008.h:
-
-../../../test/rt/source/test/rt_test_sequence_009.h:
-
-../../../test/rt/source/test/rt_test_sequence_010.h:
-
-../../../test/rt/source/test/rt_test_sequence_011.h:
-
-../../../test/oslib/source/test/oslib_test_root.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_001.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_002.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_003.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_004.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_005.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_006.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_007.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_008.h:
-
-../../../test/oslib/source/test/oslib_test_sequence_009.h:
-
-lib/frenquency.h:

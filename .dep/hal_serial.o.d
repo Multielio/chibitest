@@ -73,10 +73,11 @@ build/obj/hal_serial.o: ../../../os/hal/src/hal_serial.c \
  ../../../os/hal/include/hal_serial.h \
  ../../../os/hal/ports/STM32/LLD/USARTv1/hal_serial_lld.h \
  ../../../os/hal/include/hal_sdc.h ../../../os/hal/include/hal_sio.h \
- ../../../os/hal/include/hal_spi.h ../../../os/hal/include/hal_trng.h \
- ../../../os/hal/include/hal_uart.h ../../../os/hal/include/hal_usb.h \
- ../../../os/hal/include/hal_wdg.h ../../../os/hal/include/hal_wspi.h \
- ../../../os/hal/include/hal_st.h \
+ ../../../os/hal/include/hal_spi.h \
+ ../../../os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.h \
+ ../../../os/hal/include/hal_trng.h ../../../os/hal/include/hal_uart.h \
+ ../../../os/hal/include/hal_usb.h ../../../os/hal/include/hal_wdg.h \
+ ../../../os/hal/include/hal_wspi.h ../../../os/hal/include/hal_st.h \
  ../../../os/hal/ports/STM32/LLD/TIMv1/hal_st_lld.h \
  ../../../os/hal/include/hal_mmc_spi.h \
  ../../../os/hal/include/hal_serial_usb.h
@@ -280,6 +281,8 @@ cfg/mcuconf.h:
 ../../../os/hal/include/hal_sio.h:
 
 ../../../os/hal/include/hal_spi.h:
+
+../../../os/hal/ports/STM32/LLD/SPIv1/hal_spi_lld.h:
 
 ../../../os/hal/include/hal_trng.h:
 
