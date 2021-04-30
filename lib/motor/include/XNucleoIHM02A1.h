@@ -67,7 +67,6 @@
  *----------------------------------------------------------------------------*/
 #include "L6470.h"
 
-
 /* Classes -------------------------------------------------------------------*/
 
 /** Class representing a X-NUCLEO-IHM02A1 board.
@@ -159,6 +158,7 @@ public:
      *------------------------------------------------------------------------*/
     L6470 *l6470_0;
     L6470 *l6470_1;
+   
 
 
 protected:
@@ -182,7 +182,7 @@ protected:
 
     /* Components. */
     L6470 *components[L6470DAISYCHAINSIZE];
-    
+   
     /* Components' initialization. */
     L6470_init_t *init_components[L6470DAISYCHAINSIZE];
 
