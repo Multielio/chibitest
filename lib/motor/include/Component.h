@@ -70,10 +70,6 @@ public:
      */
     virtual int read_id(uint8_t *id) = 0;
 
-    /**
-     * @brief Destructor.
-     */
-    virtual ~Component() {};
 };
 
 #endif /* __COMPONENT_CLASS_H */

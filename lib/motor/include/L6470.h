@@ -148,11 +148,7 @@ public:
         memset(L6470_DaisyChainSpiRxStruct, 0, L6470MAXSPICMDBYTESIZE * L6470DAISYCHAINSIZE * sizeof(uint8_t));
     }
 
-    /**
-     * @brief Destructor.
-     */
-    virtual ~L6470(void) {}
-
+   
 
     /*** Public Component Related Methods ***/
 

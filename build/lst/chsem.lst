@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccIcOWNX.s 			page 1
+ARM GAS  /tmp/ccLgBITb.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
   55 002b 17       		.byte	0x17
   56 002c 30000000 		.4byte	0x30
   57 0030 04       		.uleb128 0x4
-ARM GAS  /tmp/ccIcOWNX.s 			page 2
+ARM GAS  /tmp/ccLgBITb.s 			page 2
 
 
   58 0031 04       		.byte	0x4
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  112 0097 84060000 		.4byte	.LASF12
  113 009b 02       		.byte	0x2
  114 009c 34       		.byte	0x34
-ARM GAS  /tmp/ccIcOWNX.s 			page 3
+ARM GAS  /tmp/ccLgBITb.s 			page 3
 
 
  115 009d 19       		.byte	0x19
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  169 0109 03       		.byte	0x3
  170 010a 31       		.byte	0x31
  171 010b 1D       		.byte	0x1d
-ARM GAS  /tmp/ccIcOWNX.s 			page 4
+ARM GAS  /tmp/ccLgBITb.s 			page 4
 
 
  172 010c 96000000 		.4byte	0x96
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  226 0175 08       		.uleb128 0x8
  227 0176 C8060000 		.4byte	.LASF29
  228 017a 05       		.byte	0x5
-ARM GAS  /tmp/ccIcOWNX.s 			page 5
+ARM GAS  /tmp/ccLgBITb.s 			page 5
 
 
  229 017b 94       		.byte	0x94
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  283 01de 96010000 		.4byte	.LASF36
  284 01e2 05       		.byte	0x5
  285 01e3 0E01     		.2byte	0x10e
-ARM GAS  /tmp/ccIcOWNX.s 			page 6
+ARM GAS  /tmp/ccLgBITb.s 			page 6
 
 
  286 01e5 19       		.byte	0x19
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  340 024f 08       		.uleb128 0x8
  341 0250 19010000 		.4byte	.LASF45
  342 0254 05       		.byte	0x5
-ARM GAS  /tmp/ccIcOWNX.s 			page 7
+ARM GAS  /tmp/ccLgBITb.s 			page 7
 
 
  343 0255 7D       		.byte	0x7d
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  397 02ba 6D040000 		.4byte	.LASF27
  398 02be 05       		.byte	0x5
  399 02bf 6001     		.2byte	0x160
-ARM GAS  /tmp/ccIcOWNX.s 			page 8
+ARM GAS  /tmp/ccLgBITb.s 			page 8
 
 
  400 02c1 19       		.byte	0x19
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  454 032b 0D       		.uleb128 0xd
  455 032c 38060000 		.4byte	.LASF54
  456 0330 14       		.byte	0x14
-ARM GAS  /tmp/ccIcOWNX.s 			page 9
+ARM GAS  /tmp/ccLgBITb.s 			page 9
 
 
  457 0331 05       		.byte	0x5
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  511 039b 19010000 		.4byte	.LASF45
  512 039f 05       		.byte	0x5
  513 03a0 4A01     		.2byte	0x14a
-ARM GAS  /tmp/ccIcOWNX.s 			page 10
+ARM GAS  /tmp/ccLgBITb.s 			page 10
 
 
  514 03a2 1A       		.byte	0x1a
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  568 040d 78       		.byte	0x78
  569 040e 05       		.byte	0x5
  570 040f 9001     		.2byte	0x190
-ARM GAS  /tmp/ccIcOWNX.s 			page 11
+ARM GAS  /tmp/ccLgBITb.s 			page 11
 
 
  571 0411 08       		.byte	0x8
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  625 047c 19       		.byte	0x19
  626 047d 5F000000 		.4byte	0x5f
  627 0481 12       		.uleb128 0x12
-ARM GAS  /tmp/ccIcOWNX.s 			page 12
+ARM GAS  /tmp/ccLgBITb.s 			page 12
 
 
  628 0482 B0020000 		.4byte	.LASF71
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  682 04f5 00       		.byte	0
  683 04f6 0A       		.uleb128 0xa
  684 04f7 723500   		.ascii	"r5\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 13
+ARM GAS  /tmp/ccLgBITb.s 			page 13
 
 
  685 04fa 0A       		.byte	0xa
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  739 0560 00       		.byte	0
  740 0561 0D       		.uleb128 0xd
  741 0562 4F040000 		.4byte	.LASF76
-ARM GAS  /tmp/ccIcOWNX.s 			page 14
+ARM GAS  /tmp/ccLgBITb.s 			page 14
 
 
  742 0566 04       		.byte	0x4
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  796 05c7 17       		.uleb128 0x17
  797 05c8 D5070000 		.4byte	.LASF81
  798 05cc 05       		.byte	0x5
-ARM GAS  /tmp/ccIcOWNX.s 			page 15
+ARM GAS  /tmp/ccLgBITb.s 			page 15
 
 
  799 05cd DB       		.byte	0xdb
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  853 0637 37       		.byte	0x37
  854 0638 19       		.byte	0x19
  855 0639 10010000 		.4byte	0x110
-ARM GAS  /tmp/ccIcOWNX.s 			page 16
+ARM GAS  /tmp/ccLgBITb.s 			page 16
 
 
  856 063d 08       		.byte	0x8
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  910 06a3 19       		.uleb128 0x19
  911 06a4 636800   		.ascii	"ch\000"
  912 06a7 05       		.byte	0x5
-ARM GAS  /tmp/ccIcOWNX.s 			page 17
+ARM GAS  /tmp/ccLgBITb.s 			page 17
 
 
  913 06a8 C701     		.2byte	0x1c7
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  967 0710 08       		.byte	0x8
  968 0711 08       		.uleb128 0x8
  969 0712 71060000 		.4byte	.LASF97
-ARM GAS  /tmp/ccIcOWNX.s 			page 18
+ARM GAS  /tmp/ccLgBITb.s 			page 18
 
 
  970 0716 0F       		.byte	0xf
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1024 0779 08       		.uleb128 0x8
  1025 077a EB070000 		.4byte	.LASF105
  1026 077e 0F       		.byte	0xf
-ARM GAS  /tmp/ccIcOWNX.s 			page 19
+ARM GAS  /tmp/ccLgBITb.s 			page 19
 
 
  1027 077f 42       		.byte	0x42
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1081 07e8 03       		.uleb128 0x3
  1082 07e9 C5000000 		.4byte	.LASF112
  1083 07ed 0C       		.byte	0xc
-ARM GAS  /tmp/ccIcOWNX.s 			page 20
+ARM GAS  /tmp/ccLgBITb.s 			page 20
 
 
  1084 07ee 38       		.byte	0x38
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1138 0857 0C       		.uleb128 0xc
  1139 0858 04       		.byte	0x4
  1140 0859 6B000000 		.4byte	0x6b
-ARM GAS  /tmp/ccIcOWNX.s 			page 21
+ARM GAS  /tmp/ccLgBITb.s 			page 21
 
 
  1141 085d 03       		.uleb128 0x3
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1195 08c0 19       		.byte	0x19
  1196 08c1 30000000 		.4byte	0x30
  1197 08c5 08       		.byte	0x8
-ARM GAS  /tmp/ccIcOWNX.s 			page 22
+ARM GAS  /tmp/ccLgBITb.s 			page 22
 
 
  1198 08c6 08       		.uleb128 0x8
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1252 092c 0B010000 		.4byte	.LASF126
  1253 0930 12       		.byte	0x12
  1254 0931 B7       		.byte	0xb7
-ARM GAS  /tmp/ccIcOWNX.s 			page 23
+ARM GAS  /tmp/ccLgBITb.s 			page 23
 
 
  1255 0932 03       		.byte	0x3
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1309 099c 0B       		.uleb128 0xb
  1310 099d 0D030000 		.4byte	.LASF132
  1311 09a1 12       		.byte	0x12
-ARM GAS  /tmp/ccIcOWNX.s 			page 24
+ARM GAS  /tmp/ccLgBITb.s 			page 24
 
 
  1312 09a2 3501     		.2byte	0x135
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1366 0a10 13       		.byte	0x13
  1367 0a11 7A01     		.2byte	0x17a
  1368 0a13 07       		.byte	0x7
-ARM GAS  /tmp/ccIcOWNX.s 			page 25
+ARM GAS  /tmp/ccLgBITb.s 			page 25
 
 
  1369 0a14 F8000000 		.4byte	0xf8
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1423 0a8b 24       		.byte	0x24
  1424 0a8c 5C0A0000 		.4byte	0xa5c
  1425 0a90 1E       		.uleb128 0x1e
-ARM GAS  /tmp/ccIcOWNX.s 			page 26
+ARM GAS  /tmp/ccLgBITb.s 			page 26
 
 
  1426 0a91 6E00     		.ascii	"n\000"
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1480 0b06 2601     		.2byte	0x126
  1481 0b08 06       		.byte	0x6
  1482 0b09 230B0000 		.4byte	0xb23
-ARM GAS  /tmp/ccIcOWNX.s 			page 27
+ARM GAS  /tmp/ccLgBITb.s 			page 27
 
 
  1483 0b0d 1E       		.uleb128 0x1e
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1537 0b87 EB       		.byte	0xeb
  1538 0b88 07       		.byte	0x7
  1539 0b89 F8000000 		.4byte	0xf8
-ARM GAS  /tmp/ccIcOWNX.s 			page 28
+ARM GAS  /tmp/ccLgBITb.s 			page 28
 
 
  1540 0b8d B50B0000 		.4byte	0xbb5
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1594 0c00 737000   		.ascii	"sp\000"
  1595 0c03 13       		.byte	0x13
  1596 0c04 AF       		.byte	0xaf
-ARM GAS  /tmp/ccIcOWNX.s 			page 29
+ARM GAS  /tmp/ccLgBITb.s 			page 29
 
 
  1597 0c05 1E       		.byte	0x1e
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1651 0c74 13       		.byte	0x13
  1652 0c75 7A       		.byte	0x7a
  1653 0c76 06       		.byte	0x6
-ARM GAS  /tmp/ccIcOWNX.s 			page 30
+ARM GAS  /tmp/ccLgBITb.s 			page 30
 
 
  1654 0c77 9D0C0000 		.4byte	0xc9d
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1708 0ce4 0E       		.byte	0xe
  1709 0ce5 6101     		.2byte	0x161
  1710 0ce7 14       		.byte	0x14
-ARM GAS  /tmp/ccIcOWNX.s 			page 31
+ARM GAS  /tmp/ccLgBITb.s 			page 31
 
 
  1711 0ce8 2B       		.uleb128 0x2b
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1765 0d59 30020000 		.4byte	0x230
  1766 0d5d 1E       		.uleb128 0x1e
  1767 0d5e 74717000 		.ascii	"tqp\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 32
+ARM GAS  /tmp/ccLgBITb.s 			page 32
 
 
  1768 0d62 05       		.byte	0x5
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1822 000b 10       		.uleb128 0x10
  1823 000c 17       		.uleb128 0x17
  1824 000d 00       		.byte	0
-ARM GAS  /tmp/ccIcOWNX.s 			page 33
+ARM GAS  /tmp/ccLgBITb.s 			page 33
 
 
  1825 000e 00       		.byte	0
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1879 0044 01       		.byte	0x1
  1880 0045 03       		.uleb128 0x3
  1881 0046 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccIcOWNX.s 			page 34
+ARM GAS  /tmp/ccLgBITb.s 			page 34
 
 
  1882 0047 0B       		.uleb128 0xb
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1936 007d 05       		.uleb128 0x5
  1937 007e 39       		.uleb128 0x39
  1938 007f 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccIcOWNX.s 			page 35
+ARM GAS  /tmp/ccLgBITb.s 			page 35
 
 
  1939 0080 49       		.uleb128 0x49
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  1993 00b6 01       		.uleb128 0x1
  1994 00b7 13       		.uleb128 0x13
  1995 00b8 00       		.byte	0
-ARM GAS  /tmp/ccIcOWNX.s 			page 36
+ARM GAS  /tmp/ccLgBITb.s 			page 36
 
 
  1996 00b9 00       		.byte	0
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2050 00ef 01       		.uleb128 0x1
  2051 00f0 01       		.byte	0x1
  2052 00f1 49       		.uleb128 0x49
-ARM GAS  /tmp/ccIcOWNX.s 			page 37
+ARM GAS  /tmp/ccLgBITb.s 			page 37
 
 
  2053 00f2 13       		.uleb128 0x13
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2107 0128 0B       		.uleb128 0xb
  2108 0129 49       		.uleb128 0x49
  2109 012a 13       		.uleb128 0x13
-ARM GAS  /tmp/ccIcOWNX.s 			page 38
+ARM GAS  /tmp/ccLgBITb.s 			page 38
 
 
  2110 012b 00       		.byte	0
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2164 0161 00       		.byte	0
  2165 0162 03       		.uleb128 0x3
  2166 0163 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccIcOWNX.s 			page 39
+ARM GAS  /tmp/ccLgBITb.s 			page 39
 
 
  2167 0164 3A       		.uleb128 0x3a
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2221 019a 05       		.uleb128 0x5
  2222 019b 39       		.uleb128 0x39
  2223 019c 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccIcOWNX.s 			page 40
+ARM GAS  /tmp/ccLgBITb.s 			page 40
 
 
  2224 019d 49       		.uleb128 0x49
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2278 01d3 24       		.uleb128 0x24
  2279 01d4 2E       		.uleb128 0x2e
  2280 01d5 01       		.byte	0x1
-ARM GAS  /tmp/ccIcOWNX.s 			page 41
+ARM GAS  /tmp/ccLgBITb.s 			page 41
 
 
  2281 01d6 3F       		.uleb128 0x3f
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2335 020c 0B       		.uleb128 0xb
  2336 020d 3B       		.uleb128 0x3b
  2337 020e 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccIcOWNX.s 			page 42
+ARM GAS  /tmp/ccLgBITb.s 			page 42
 
 
  2338 020f 39       		.uleb128 0x39
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2392 0245 19       		.uleb128 0x19
  2393 0246 00       		.byte	0
  2394 0247 00       		.byte	0
-ARM GAS  /tmp/ccIcOWNX.s 			page 43
+ARM GAS  /tmp/ccLgBITb.s 			page 43
 
 
  2395 0248 2B       		.uleb128 0x2b
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2449 0016 00       		.byte	0
  2450 0017 00       		.byte	0
  2451 0018 01       		.byte	0x1
-ARM GAS  /tmp/ccIcOWNX.s 			page 44
+ARM GAS  /tmp/ccLgBITb.s 			page 44
 
 
  2452 0019 00       		.byte	0
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2472      00
  2473 0133 08       		.uleb128 0x8
  2474 0134 00       		.uleb128 0
-ARM GAS  /tmp/ccIcOWNX.s 			page 45
+ARM GAS  /tmp/ccLgBITb.s 			page 45
 
 
  2475 0135 00       		.uleb128 0
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2508      376D2E68 
  2508      00
  2509 01b4 04       		.uleb128 0x4
-ARM GAS  /tmp/ccIcOWNX.s 			page 46
+ARM GAS  /tmp/ccLgBITb.s 			page 46
 
 
  2510 01b5 00       		.uleb128 0
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2548      735F6763 
  2548      632E6800 
  2549 0237 01       		.uleb128 0x1
-ARM GAS  /tmp/ccIcOWNX.s 			page 47
+ARM GAS  /tmp/ccLgBITb.s 			page 47
 
 
  2550 0238 00       		.uleb128 0
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2579 007c 71756575 		.ascii	"queue_init\000"
  2579      655F696E 
  2579      697400
-ARM GAS  /tmp/ccIcOWNX.s 			page 48
+ARM GAS  /tmp/ccLgBITb.s 			page 48
 
 
  2580              	.LASF133:
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2604              	.LASF45:
  2605 0119 6E657874 		.ascii	"next\000"
  2605      00
-ARM GAS  /tmp/ccIcOWNX.s 			page 49
+ARM GAS  /tmp/ccLgBITb.s 			page 49
 
 
  2606              	.LASF47:
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2631      6500
  2632              	.LASF7:
  2633 01c0 6C6F6E67 		.ascii	"long int\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 50
+ARM GAS  /tmp/ccLgBITb.s 			page 50
 
 
  2633      20696E74 
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2659      6500
  2660              	.LASF93:
  2661 025b 7A65726F 		.ascii	"zero\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 51
+ARM GAS  /tmp/ccLgBITb.s 			page 51
 
 
  2661      00
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2689      72795F70 
  2689      6F6F6C5F 
  2689      7400
-ARM GAS  /tmp/ccIcOWNX.s 			page 52
+ARM GAS  /tmp/ccLgBITb.s 			page 52
 
 
  2690              	.LASF30:
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2720              	.LASF72:
  2721 0377 41484250 		.ascii	"AHBPrescTable\000"
  2721      72657363 
-ARM GAS  /tmp/ccIcOWNX.s 			page 53
+ARM GAS  /tmp/ccLgBITb.s 			page 53
 
 
  2721      5461626C 
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2744      7200
  2745              	.LASF158:
  2746 0445 63685379 		.ascii	"chSysLock\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 54
+ARM GAS  /tmp/ccLgBITb.s 			page 54
 
 
  2746      734C6F63 
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2771      20323737 
  2771      3539395D 
  2771      202D6D63 
-ARM GAS  /tmp/ccIcOWNX.s 			page 55
+ARM GAS  /tmp/ccLgBITb.s 			page 55
 
 
  2772 0527 693D736F 		.ascii	"i=soft -march=armv7e-m -ggdb -O2 -fomit-frame-point"
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2795              	.LASF140:
  2796 0609 5F5F6675 		.ascii	"__func__\000"
  2796      6E635F5F 
-ARM GAS  /tmp/ccIcOWNX.s 			page 56
+ARM GAS  /tmp/ccLgBITb.s 			page 56
 
 
  2796      00
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2822      68726561 
  2822      64735F6C 
  2822      69737400 
-ARM GAS  /tmp/ccIcOWNX.s 			page 57
+ARM GAS  /tmp/ccLgBITb.s 			page 57
 
 
  2823              	.LASF89:
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2848      4900
  2849              	.LASF149:
  2850 0730 63685365 		.ascii	"chSemWait\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 58
+ARM GAS  /tmp/ccLgBITb.s 			page 58
 
 
  2850      6D576169 
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2876      7300
  2877              	.LASF136:
  2878 07cb 6669666F 		.ascii	"fifo_list\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 59
+ARM GAS  /tmp/ccLgBITb.s 			page 59
 
 
  2878      5F6C6973 
@@ -3513,13 +3513,13 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2892 081d 6D74786C 		.ascii	"mtxlist\000"
  2892      69737400 
  2893              		.text
- 2894              		.section	.gnu.lto_.profile.b4619036927741cc,"e",%progbits
+ 2894              		.section	.gnu.lto_.profile.cfcf5b5e143c3fd1,"e",%progbits
  2895 0000 789CE360 		.ascii	"x\234\343``\004B \000\000\000]\000\013"
  2895      60044220 
  2895      0000005D 
  2895      000B
  2896              		.text
- 2897              		.section	.gnu.lto_.icf.b4619036927741cc,"e",%progbits
+ 2897              		.section	.gnu.lto_.icf.cfcf5b5e143c3fd1,"e",%progbits
  2898 0000 789CE360 		.ascii	"x\234\343``d\010a@\000>\206\231\177\226\335fe\332\372"
  2898      60640861 
  2898      40003E86 
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2901      5EDD7ACF 
  2901      C6F9B4E9 
  2901      F22D36AE 
-ARM GAS  /tmp/ccIcOWNX.s 			page 60
+ARM GAS  /tmp/ccLgBITb.s 			page 60
 
 
  2901      FE97
@@ -3552,7 +3552,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2903      2D130300 
  2903      2A1429F9 
  2904              		.text
- 2905              		.section	.gnu.lto_.jmpfuncs.b4619036927741cc,"e",%progbits
+ 2905              		.section	.gnu.lto_.jmpfuncs.cfcf5b5e143c3fd1,"e",%progbits
  2906 0000 789C9D51 		.ascii	"x\234\235Q\311\015\3020\020\234\361\256I\010\020\012"
  2906      C90DC230 
  2906      109CF1AE 
@@ -3598,11 +3598,11 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2915      5E72CE54 
  2915      8F2FE330 
  2915      81B9
-ARM GAS  /tmp/ccIcOWNX.s 			page 61
+ARM GAS  /tmp/ccLgBITb.s 			page 61
 
 
  2916              		.text
- 2917              		.section	.gnu.lto_.inline.b4619036927741cc,"e",%progbits
+ 2917              		.section	.gnu.lto_.inline.cfcf5b5e143c3fd1,"e",%progbits
  2918 0000 789C9D53 		.ascii	"x\234\235SMK\034A\020}U\325\272\263\263\273\356\032"
  2918      4D4B1C41 
  2918      107D55D5 
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2928      94
  2929 00c2 09C03F5E 		.ascii	"\011\300?^\377\365\211\3034\216|\273K\231\034\372 j"
  2929      FFF589C3 
-ARM GAS  /tmp/ccIcOWNX.s 			page 62
+ARM GAS  /tmp/ccLgBITb.s 			page 62
 
 
  2929      348E7CBB 
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2940      18995D79 
  2940      BD2093E9 
  2940      54BB3AF9 
-ARM GAS  /tmp/ccIcOWNX.s 			page 63
+ARM GAS  /tmp/ccLgBITb.s 			page 63
 
 
  2941 01a5 CEDE6CBB 		.ascii	"\316\336l\273\311\223J\376\342\345\357g\342F\305\273"
@@ -3736,7 +3736,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2943      66878CBF 
  2944 01d6 C716D24E 		.ascii	"\307\026\322N"
  2945              		.text
- 2946              		.section	.gnu.lto_.pureconst.b4619036927741cc,"e",%progbits
+ 2946              		.section	.gnu.lto_.pureconst.cfcf5b5e143c3fd1,"e",%progbits
  2947 0000 789C05C1 		.ascii	"x\234\005\301\011\001\2000\000\003\261\002W\030\337"
  2947      09018030 
  2947      0003B102 
@@ -3751,7 +3751,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2949      CCFA07D6 
  2949      BC09F4
  2950              		.text
- 2951              		.section	.gnu.lto_chSemWaitS.part.0.b4619036927741cc,"e",%progbits
+ 2951              		.section	.gnu.lto_chSemWaitS.part.0.cfcf5b5e143c3fd1,"e",%progbits
  2952 0000 789C9555 		.ascii	"x\234\225U\337oTE\024\236o\346\336\335\273-]D\023L\250"
  2952      DF6F5445 
  2952      149E6FE6 
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2957      EE6EB7B7 
  2957      B4E0A6BD 
  2957      3977E69C 
-ARM GAS  /tmp/ccIcOWNX.s 			page 64
+ARM GAS  /tmp/ccLgBITb.s 			page 64
 
 
  2957      F9BE
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2969      E5E8FA07 
  2969      5682B9
  2970 0130 C2E2A0B3 		.ascii	"\302\342\240\263\2042m\213\336mz\004\324#\020\244\007"
-ARM GAS  /tmp/ccIcOWNX.s 			page 65
+ARM GAS  /tmp/ccLgBITb.s 			page 65
 
 
  2970      84326D8B 
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2981      38B19882 
  2981      4A2A
  2982 0201 8C939A81 		.ascii	"\214\223\232\201e\030d\306/\365pR\317\354\332\370I%"
-ARM GAS  /tmp/ccIcOWNX.s 			page 66
+ARM GAS  /tmp/ccLgBITb.s 			page 66
 
 
  2982      651864C6 
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  2993      59477459 
  2993      6D83ECEB 
  2993      AD66127A 
-ARM GAS  /tmp/ccIcOWNX.s 			page 67
+ARM GAS  /tmp/ccLgBITb.s 			page 67
 
 
  2994 02e1 7A2B60F6 		.ascii	"z+`\366q\236\332\313\\\263\253'7\024`3\331\247\311L"
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3005      0A1F9C9B 
  3005      E02CA9D4 
  3006 03c7 67EC4F04 		.ascii	"g\354O\004\025\001\316\325\227\011f\227N\256\214D\352"
-ARM GAS  /tmp/ccIcOWNX.s 			page 68
+ARM GAS  /tmp/ccLgBITb.s 			page 68
 
 
  3006      1501CED5 
@@ -4043,7 +4043,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3010 0410 6AD37F17 		.ascii	"j\323\177\027\000\236\313"
  3010      009ECB
  3011              		.text
- 3012              		.section	.gnu.lto_chSemWaitTimeoutS.part.0.b4619036927741cc,"e",%progbits
+ 3012              		.section	.gnu.lto_chSemWaitTimeoutS.part.0.cfcf5b5e143c3fd1,"e",%progbits
  3013 0000 789C9555 		.ascii	"x\234\225U\377OSW\024\277\237{\337{mQ`\222\205\037$"
  3013      FF4F5357 
  3013      14BF9F7B 
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3019      94AFFA60 
  3019      803B0687 
  3019      D0468B5F 
-ARM GAS  /tmp/ccIcOWNX.s 			page 69
+ARM GAS  /tmp/ccLgBITb.s 			page 69
 
 
  3019      00DA
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3031      69F95D29 
  3031      FB42CF96 
  3031      82D9C2E4 
-ARM GAS  /tmp/ccIcOWNX.s 			page 70
+ARM GAS  /tmp/ccLgBITb.s 			page 70
 
 
  3031      20EE
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3042      85E2A747 
  3043 022a A8A44A91 		.ascii	"\250\244J\221\321\014\014\207\301\300\364\255\223\234"
  3043      D10C0C87 
-ARM GAS  /tmp/ccIcOWNX.s 			page 71
+ARM GAS  /tmp/ccLgBITb.s 			page 71
 
 
  3043      C1C0F4AD 
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3054      1BAB9C
  3055 02fe CA7A5D97 		.ascii	"\312z]\227\325t\220=\275\325DBOQoY\316>\262\324^\316"
  3055      D574903D 
-ARM GAS  /tmp/ccIcOWNX.s 			page 72
+ARM GAS  /tmp/ccLgBITb.s 			page 72
 
 
  3055      BDD54442 
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3067 03d7 22A1E6A6 		.ascii	"\"\241\346\246p(\334\320\\\277=\030f\274\271q\235k\007"
  3067      7028DCD0 
  3067      5CBF3D18 
-ARM GAS  /tmp/ccIcOWNX.s 			page 73
+ARM GAS  /tmp/ccLgBITb.s 			page 73
 
 
  3067      66BCB971 
@@ -4336,7 +4336,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3070 0411 C67F00A1 		.ascii	"\306\177\000\241\356}\011"
  3070      EE7D09
  3071              		.text
- 3072              		.section	.gnu.lto_chSemSignalI.part.0.b4619036927741cc,"e",%progbits
+ 3072              		.section	.gnu.lto_chSemSignalI.part.0.cfcf5b5e143c3fd1,"e",%progbits
  3073 0000 789C8D55 		.ascii	"x\234\215UmlSU\030>\317=\267_\373 Q2C\230\222-qYfL["
  3073      6D6C5355 
  3073      183ECF3D 
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3081      E92D6EEC 
  3081      527B3759 
  3081      5288247D 
-ARM GAS  /tmp/ccIcOWNX.s 			page 74
+ARM GAS  /tmp/ccLgBITb.s 			page 74
 
 
  3081      EC97A747 
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3093      DC9631C9 
  3093      48A33692 
  3093      BE317F34 
-ARM GAS  /tmp/ccIcOWNX.s 			page 75
+ARM GAS  /tmp/ccLgBITb.s 			page 75
 
 
  3093      5F0CC927 
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3105      3DB5CCDC 
  3105      0797370C 
  3105      6280E2A1 
-ARM GAS  /tmp/ccIcOWNX.s 			page 76
+ARM GAS  /tmp/ccLgBITb.s 			page 76
 
 
  3105      06
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3117      FB03F3EA 
  3117      891EFBC8 
  3117      E1
-ARM GAS  /tmp/ccIcOWNX.s 			page 77
+ARM GAS  /tmp/ccLgBITb.s 			page 77
 
 
  3118 0331 A5A0AF76 		.ascii	"\245\240\257v\037\351\256\\\235\270(\315\177\272\354"
@@ -4614,11 +4614,11 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3128      FF00C3
  3129 03ee 815C2D   		.ascii	"\201\\-"
  3130              		.text
- 3131              		.section	.gnu.lto_chSemObjectInit.b4619036927741cc,"e",%progbits
+ 3131              		.section	.gnu.lto_chSemObjectInit.cfcf5b5e143c3fd1,"e",%progbits
  3132 0000 789C8D53 		.ascii	"x\234\215S\337K\024Q\024\276\337\334\331\037E.\324\203"
  3132      DF4B1451 
  3132      14BEDFDC 
-ARM GAS  /tmp/ccIcOWNX.s 			page 78
+ARM GAS  /tmp/ccLgBITb.s 			page 78
 
 
  3132      D91F452E 
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3144      1EC24F90 
  3144      9FA2BDC3 
  3144      C3F7
-ARM GAS  /tmp/ccIcOWNX.s 			page 79
+ARM GAS  /tmp/ccLgBITb.s 			page 79
 
 
  3145 00e0 2B78DA5C 		.ascii	"+x\332\\[tI8\025\364%\251\340:\306\013\340z\331\010"
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3156      2245444E 
  3156      443C859F 
  3157 01b2 8ECBD64B 		.ascii	"\216\313\326K$\252\343\302\267XQy\237B\321\036\3647"
-ARM GAS  /tmp/ccIcOWNX.s 			page 80
+ARM GAS  /tmp/ccLgBITb.s 			page 80
 
 
  3157      24AAE3C2 
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3168      865ADE70 
  3168      AA
  3169 028c CEF717EC 		.ascii	"\316\367\027\354Xm\370\370\351\252j\011\015\327T\005"
-ARM GAS  /tmp/ccIcOWNX.s 			page 81
+ARM GAS  /tmp/ccLgBITb.s 			page 81
 
 
  3169      586DF8F8 
@@ -4807,7 +4807,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3170 029c 6AD86FF3 		.ascii	"j\330o\363lUz"
  3170      6C557A
  3171              		.text
- 3172              		.section	.gnu.lto_chSemResetWithMessage.b4619036927741cc,"e",%progbits
+ 3172              		.section	.gnu.lto_chSemResetWithMessage.cfcf5b5e143c3fd1,"e",%progbits
  3173 0000 789C8D57 		.ascii	"x\234\215W{P\224\327\025\277\347\273\337>A\324L\264"
  3173      7B5094D7 
  3173      15BFE7BB 
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3182      09C2
  3183 00b4 FC54CBA0 		.ascii	"\374T\313\240\204\203\033/\354\325\036o\244\367\321"
  3183      84831B2F 
-ARM GAS  /tmp/ccIcOWNX.s 			page 82
+ARM GAS  /tmp/ccLgBITb.s 			page 82
 
 
  3183      ECD51E6F 
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3195 0182 92616C31 		.ascii	"\222al1 ,\255p\230\010 N\000G G\010w`I2\3548|n\350q"
  3195      202CAD70 
  3195      9808204E 
-ARM GAS  /tmp/ccIcOWNX.s 			page 83
+ARM GAS  /tmp/ccLgBITb.s 			page 83
 
 
  3195      00472047 
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3207      CAD2E9E6 
  3207      1593272E 
  3207      1BC62361 
-ARM GAS  /tmp/ccIcOWNX.s 			page 84
+ARM GAS  /tmp/ccLgBITb.s 			page 84
 
 
  3207      6987
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3219      AE72D2AB 
  3219      52C1EF22 
  3219      21A9750C 
-ARM GAS  /tmp/ccIcOWNX.s 			page 85
+ARM GAS  /tmp/ccLgBITb.s 			page 85
 
 
  3219      EC
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3231      8A8EF67D 
  3231      782AAB01 
  3231      EAB12167 
-ARM GAS  /tmp/ccIcOWNX.s 			page 86
+ARM GAS  /tmp/ccLgBITb.s 			page 86
 
 
  3231      6084
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3243      ABAA178E 
  3243      96B57742 
  3243      42021EE1 
-ARM GAS  /tmp/ccIcOWNX.s 			page 87
+ARM GAS  /tmp/ccLgBITb.s 			page 87
 
 
  3243      C4
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3255 05bf 73014C50 		.ascii	"s\001LP\001\240\247\303r\256i\307_Rk\034\355p\246\265"
  3255      01A0A7C3 
  3255      72AE69C7 
-ARM GAS  /tmp/ccIcOWNX.s 			page 88
+ARM GAS  /tmp/ccLgBITb.s 			page 88
 
 
  3255      5F526B1C 
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3267 069b 86D38C91 		.ascii	"\206\323\214\221\217\016ZYi\010\363\\@\231\026\033#"
  3267      8F0E5A59 
  3267      6908F35C 
-ARM GAS  /tmp/ccIcOWNX.s 			page 89
+ARM GAS  /tmp/ccLgBITb.s 			page 89
 
 
  3267      4099161B 
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3279      6EF41695 
  3279      E4BFF8C6 
  3279      6F0A70B7 
-ARM GAS  /tmp/ccIcOWNX.s 			page 90
+ARM GAS  /tmp/ccLgBITb.s 			page 90
 
 
  3279      ED
@@ -5363,7 +5363,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3283      FF019979 
  3283      F7E2
  3284              		.text
- 3285              		.section	.gnu.lto_chSemResetWithMessageI.b4619036927741cc,"e",%progbits
+ 3285              		.section	.gnu.lto_chSemResetWithMessageI.cfcf5b5e143c3fd1,"e",%progbits
  3286 0000 789C8D55 		.ascii	"x\234\215U\353O\\U\020?s\317\275\373*\017mb\263-\261"
  3286      EB4F5C55 
  3286      103F73CF 
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3292      2640334D 
  3292      F3457BB9 
  3293 007c 43035D59 		.ascii	"C\003]YRY\027\035\272&G\227\226\017\350\246\313\350"
-ARM GAS  /tmp/ccIcOWNX.s 			page 91
+ARM GAS  /tmp/ccLgBITb.s 			page 91
 
 
  3293      5259171D 
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3304      B329C8EF 
  3304      CBA6
  3305 0154 95882EF3 		.ascii	"\225\210.\363\030\343\326\207}\243\316\2540c,\264o\377"
-ARM GAS  /tmp/ccIcOWNX.s 			page 92
+ARM GAS  /tmp/ccLgBITb.s 			page 92
 
 
  3305      18E3D687 
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3316      DAC90C4A 
  3316      0D7370CC 
  3316      7F6FDA41 
-ARM GAS  /tmp/ccIcOWNX.s 			page 93
+ARM GAS  /tmp/ccLgBITb.s 			page 93
 
 
  3316      35283993 
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3327      7150C6
  3328 0301 7AA882C4 		.ascii	"z\250\202\304\\;\332k\030t\210{\250\221\024\301\230"
  3328      5C3BDA6B 
-ARM GAS  /tmp/ccIcOWNX.s 			page 94
+ARM GAS  /tmp/ccLgBITb.s 			page 94
 
 
  3328      1874887B 
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3339      E008C96D 
  3339      8DA847C0 
  3339      0D2A7F4C 
-ARM GAS  /tmp/ccIcOWNX.s 			page 95
+ARM GAS  /tmp/ccLgBITb.s 			page 95
 
 
  3340 03e9 48A65822 		.ascii	"H\246X\"\336\331\254\303W\250\327P\213k3-\330k\2510"
@@ -5695,10 +5695,10 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3351 04b2 BD59FC2F 		.ascii	"\275Y\374/\266'\307\225"
  3351      B627C795 
  3352              		.text
- 3353              		.section	.gnu.lto_chSemWait.b4619036927741cc,"e",%progbits
+ 3353              		.section	.gnu.lto_chSemWait.cfcf5b5e143c3fd1,"e",%progbits
  3354 0000 789C8D55 		.ascii	"x\234\215U\355O\223W\024\277\347\271O_x\231q~a\016\243"
  3354      ED4F9357 
-ARM GAS  /tmp/ccIcOWNX.s 			page 96
+ARM GAS  /tmp/ccLgBITb.s 			page 96
 
 
  3354      14BFE7B9 
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3365      15D88CDA 
  3365      5F9CB9D5 
  3366 00db 6FE4EB81 		.ascii	"o\344\353\201\241|\241L<7n\252\027\302#\202O}\\\274"
-ARM GAS  /tmp/ccIcOWNX.s 			page 97
+ARM GAS  /tmp/ccLgBITb.s 			page 97
 
 
  3366      A17CA14C 
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3377      90C04B41 
  3377      96EAD2D8 
  3378 01b6 83B204BD 		.ascii	"\203\262\004\275\326\217\032R\347n?\024b\215\227\033"
-ARM GAS  /tmp/ccIcOWNX.s 			page 98
+ARM GAS  /tmp/ccLgBITb.s 			page 98
 
 
  3378      D68F1A52 
@@ -5878,7 +5878,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3389      B3F0
  3390 0284 4363AA76 		.ascii	"Cc\252vV>\345\320'\301c!!\346\001\314\\Z\357+\026;\""
  3390      563EE5D0 
-ARM GAS  /tmp/ccIcOWNX.s 			page 99
+ARM GAS  /tmp/ccLgBITb.s 			page 99
 
 
  3390      27C16321 
@@ -5938,7 +5938,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3401      5577179D 
  3402 0368 471C8EE6 		.ascii	"G\034\216\346\220\316\210\025\234\237\231\036\351a\222"
  3402      90CE8815 
-ARM GAS  /tmp/ccIcOWNX.s 			page 100
+ARM GAS  /tmp/ccLgBITb.s 			page 100
 
 
  3402      9C9F991E 
@@ -5998,7 +5998,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3413      49D4
  3414 043f 24C6FE96 		.ascii	"$\306\376\226\263\027\311GA\177\023\220\254|;\0058\030"
  3414      B317C947 
-ARM GAS  /tmp/ccIcOWNX.s 			page 101
+ARM GAS  /tmp/ccLgBITb.s 			page 101
 
 
  3414      417F1390 
@@ -6050,7 +6050,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3424      FD075793 
  3424      C97B
  3425              		.text
- 3426              		.section	.gnu.lto_chSemWaitS.b4619036927741cc,"e",%progbits
+ 3426              		.section	.gnu.lto_chSemWaitS.cfcf5b5e143c3fd1,"e",%progbits
  3427 0000 789C8552 		.ascii	"x\234\205R\317k\023Q\020\236o\347e\263\015\265\340\311"
  3427      CF6B1351 
  3427      109E6FE7 
@@ -6058,7 +6058,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3427      E0C9
  3428 0012 C38A5411 		.ascii	"\303\212T\021J\017&!\210\240'\217\236\374#\014\005="
  3428      4A0F2621 
-ARM GAS  /tmp/ccIcOWNX.s 			page 102
+ARM GAS  /tmp/ccLgBITb.s 			page 102
 
 
  3428      88A0278F 
@@ -6118,7 +6118,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3440      8F2E39DE 
  3440      5EDF1242 
  3440      3275EFEF 
-ARM GAS  /tmp/ccIcOWNX.s 			page 103
+ARM GAS  /tmp/ccLgBITb.s 			page 103
 
 
  3440      AC5D
@@ -6178,7 +6178,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3451      AF
  3452 01c0 8CCDAFB7 		.ascii	"\214\315\257\267\025\341\345\035\237\343Cr}\302c\024"
  3452      15E1E51D 
-ARM GAS  /tmp/ccIcOWNX.s 			page 104
+ARM GAS  /tmp/ccLgBITb.s 			page 104
 
 
  3452      9FE34372 
@@ -6204,7 +6204,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3456      00FF27EC 
  3456      20
  3457              		.text
- 3458              		.section	.gnu.lto_chSemWaitTimeout.b4619036927741cc,"e",%progbits
+ 3458              		.section	.gnu.lto_chSemWaitTimeout.cfcf5b5e143c3fd1,"e",%progbits
  3459 0000 789C9555 		.ascii	"x\234\225UmLSg\024~\317}o{kA\306\3741\243]\26456\304"
  3459      6D4C5367 
  3459      147ECF7D 
@@ -6238,7 +6238,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3465      A4AAEA3C 
  3465      A5C02449 
  3465      7CCB9D5D 
-ARM GAS  /tmp/ccIcOWNX.s 			page 105
+ARM GAS  /tmp/ccLgBITb.s 			page 105
 
 
  3465      13
@@ -6298,7 +6298,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3477      73AA8CB1 
  3477      C3F72946 
  3477      18B3D58D 
-ARM GAS  /tmp/ccIcOWNX.s 			page 106
+ARM GAS  /tmp/ccLgBITb.s 			page 106
 
 
  3478 0159 2744D7C1 		.ascii	"'D\327\301\347[\307\032e8\003vJ\220\322j\001#6\203\261"
@@ -6358,7 +6358,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3489      89AA9E03 
  3489      3B02CF76 
  3489      B6178B
-ARM GAS  /tmp/ccIcOWNX.s 			page 107
+ARM GAS  /tmp/ccLgBITb.s 			page 107
 
 
  3490 0234 C1338215 		.ascii	"\3013\202\025\"\370\235R9\262\365\350\344\324DJ'\356"
@@ -6418,7 +6418,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3501      316D2C53 
  3501      16B03592 
  3501      592B1CEB 
-ARM GAS  /tmp/ccIcOWNX.s 			page 108
+ARM GAS  /tmp/ccLgBITb.s 			page 108
 
 
  3501      2B98E4
@@ -6478,7 +6478,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3513      CB90E0AC 
  3513      DA1A83A8 
  3513      02
-ARM GAS  /tmp/ccIcOWNX.s 			page 109
+ARM GAS  /tmp/ccLgBITb.s 			page 109
 
 
  3514 03e6 A23B5ACE 		.ascii	"\242;Z\316\202\006\347\311p\031\341w\023p\271\366\310"
@@ -6538,7 +6538,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3525      AEA67B9D 
  3525      97
  3526 04bc FBE2BCDC 		.ascii	"\373\342\274\334\227\304\313\353{\366\3346\305)\367"
-ARM GAS  /tmp/ccIcOWNX.s 			page 110
+ARM GAS  /tmp/ccLgBITb.s 			page 110
 
 
  3526      97C4CBEB 
@@ -6598,7 +6598,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3537      2E76CC47 
  3537      906361DC 
  3537      99DB97E7 
-ARM GAS  /tmp/ccIcOWNX.s 			page 111
+ARM GAS  /tmp/ccLgBITb.s 			page 111
 
 
  3537      5BB2
@@ -6612,7 +6612,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3539      0DFB1744 
  3539      3C5F2C
  3540              		.text
- 3541              		.section	.gnu.lto_chSemWaitTimeoutS.b4619036927741cc,"e",%progbits
+ 3541              		.section	.gnu.lto_chSemWaitTimeoutS.cfcf5b5e143c3fd1,"e",%progbits
  3542 0000 789C8553 		.ascii	"x\234\205S\335KTA\024\2373g\356\207\213\011\365 \321"
  3542      DD4B5441 
  3542      149F3367 
@@ -6658,7 +6658,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3551      34C269EC 
  3551      404887BA 
  3551      7EE6B761 
-ARM GAS  /tmp/ccIcOWNX.s 			page 112
+ARM GAS  /tmp/ccLgBITb.s 			page 112
 
 
  3551      1419085A 
@@ -6718,7 +6718,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3563 0177 869F2034 		.ascii	"\206\237 4\222\364*\330\205:\371h\013/\245M\325\012"
  3563      92F42AD8 
  3563      853AF968 
-ARM GAS  /tmp/ccIcOWNX.s 			page 113
+ARM GAS  /tmp/ccLgBITb.s 			page 113
 
 
  3563      0B2FA54D 
@@ -6778,7 +6778,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3575      51CCB3D9 
  3575      FADAFBF9 
  3575      029C0E
-ARM GAS  /tmp/ccIcOWNX.s 			page 114
+ARM GAS  /tmp/ccLgBITb.s 			page 114
 
 
  3576 0258 056DFFB0 		.ascii	"\005m\377\260?\274lC85\344)x\3054u\312\324X\256}N\366"
@@ -6805,7 +6805,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3580      6DB1
  3581 02ae 50B0     		.ascii	"P\260"
  3582              		.text
- 3583              		.section	.gnu.lto_chSemSignal.b4619036927741cc,"e",%progbits
+ 3583              		.section	.gnu.lto_chSemSignal.cfcf5b5e143c3fd1,"e",%progbits
  3584 0000 789C8D56 		.ascii	"x\234\215V\351OTW\024\277\347\3357;*]B\033\261u\306"
  3584      E94F5457 
  3584      14BFE7DD 
@@ -6838,7 +6838,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3590 006d 30F63E63 		.ascii	"0\366>c\014\014\014\024!\304\"\323\006\263\242\360\273"
  3590      0C0C0C14 
  3590      21C422D3 
-ARM GAS  /tmp/ccIcOWNX.s 			page 115
+ARM GAS  /tmp/ccLgBITb.s 			page 115
 
 
  3590      06B3A2F0 
@@ -6898,7 +6898,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3602      14004D1E 
  3602      8584AA
  3603 014a 5643A378 		.ascii	"VC\243x>\272\021\031\231u\252p`0q\006jFO\215\350\266"
-ARM GAS  /tmp/ccIcOWNX.s 			page 116
+ARM GAS  /tmp/ccLgBITb.s 			page 116
 
 
  3603      3EBA1119 
@@ -6958,7 +6958,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3614      9CC4
  3615 0219 738A65B8 		.ascii	"s\212e\270\360\340\354\350H\012f\356u\021F\006\341'"
  3615      F0E0ECE8 
-ARM GAS  /tmp/ccIcOWNX.s 			page 117
+ARM GAS  /tmp/ccLgBITb.s 			page 117
 
 
  3615      480A66EE 
@@ -7018,7 +7018,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3626      9AF2839B 
  3626      6EEDB690 
  3626      721B00B4 
-ARM GAS  /tmp/ccIcOWNX.s 			page 118
+ARM GAS  /tmp/ccLgBITb.s 			page 118
 
 
  3627 02fd A11AB4DE 		.ascii	"\241\032\264\336\265Yz\031e\253d5\373\017k\347\307\254"
@@ -7078,7 +7078,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3638      96BD4662 
  3638      31B7443E 
  3638      8D715C96 
-ARM GAS  /tmp/ccIcOWNX.s 			page 119
+ARM GAS  /tmp/ccLgBITb.s 			page 119
 
 
  3638      61F38D21 
@@ -7138,7 +7138,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3650      AC76E228 
  3650      1B088F32 
  3650      CAB3213D 
-ARM GAS  /tmp/ccIcOWNX.s 			page 120
+ARM GAS  /tmp/ccLgBITb.s 			page 120
 
 
  3650      4D1B
@@ -7198,7 +7198,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3662 0579 ADC87357 		.ascii	"\255\310sWFzz\306jgf\206;\313\343\374`i\312\342\224"
  3662      467A7AC6 
  3662      6A676686 
-ARM GAS  /tmp/ccIcOWNX.s 			page 121
+ARM GAS  /tmp/ccLgBITb.s 			page 121
 
 
  3662      3BCBE3FC 
@@ -7228,7 +7228,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3667      3F41E49F 
  3667      BE
  3668              		.text
- 3669              		.section	.gnu.lto_chSemSignalI.b4619036927741cc,"e",%progbits
+ 3669              		.section	.gnu.lto_chSemSignalI.cfcf5b5e143c3fd1,"e",%progbits
  3670 0000 789C8552 		.ascii	"x\234\205R]k\023A\024\275g\357\354v[\252(\"\010\001"
  3670      5D6B1341 
  3670      14BD67EF 
@@ -7258,7 +7258,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3675      44B45F26 
  3675      5C82A3B5 
  3675      3ED0
-ARM GAS  /tmp/ccIcOWNX.s 			page 122
+ARM GAS  /tmp/ccLgBITb.s 			page 122
 
 
  3676 006e 96F71D87 		.ascii	"\226\367\035\207\277\255\314nR\272C\215\0144RJw2T\314"
@@ -7318,7 +7318,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3687      2E3F7A7D 
  3687      E3D5C60A 
  3687      2EE52585 
-ARM GAS  /tmp/ccIcOWNX.s 			page 123
+ARM GAS  /tmp/ccLgBITb.s 			page 123
 
 
  3687      AE90DDB2 
@@ -7370,7 +7370,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3697      FA09AAF4 
  3697      DF64
  3698              		.text
- 3699              		.section	.gnu.lto_chSemAddCounterI.b4619036927741cc,"e",%progbits
+ 3699              		.section	.gnu.lto_chSemAddCounterI.cfcf5b5e143c3fd1,"e",%progbits
  3700 0000 789C8D55 		.ascii	"x\234\215U\355O[U\030?\317=\367\366\366\005\272\252"
  3700      ED4F5B55 
  3700      183FCF3D 
@@ -7378,7 +7378,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3700      BAAA
  3701 0012 D128E852 		.ascii	"\321(\350R\214\204,\306\266bL\266o&~\365\0370\361\223"
  3701      8C842CC6 
-ARM GAS  /tmp/ccIcOWNX.s 			page 124
+ARM GAS  /tmp/ccLgBITb.s 			page 124
 
 
  3701      B6624CB6 
@@ -7438,7 +7438,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3712      E6002A3E 
  3712      B60E
  3713 00ed 7F3D64A7 		.ascii	"\177=d\247G\005\334\370x\360\370\350\270\205o\006\206"
-ARM GAS  /tmp/ccIcOWNX.s 			page 125
+ARM GAS  /tmp/ccLgBITb.s 			page 125
 
 
  3713      4705DCF8 
@@ -7498,7 +7498,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3724      490E17
  3725 01b9 BD606C1F 		.ascii	"\275`l\037g\013\351\316\255 b\214\355\347\212\\7\342"
  3725      670BE9CE 
-ARM GAS  /tmp/ccIcOWNX.s 			page 126
+ARM GAS  /tmp/ccLgBITb.s 			page 126
 
 
  3725      AD20628C 
@@ -7558,7 +7558,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3736      4ECD
  3737 028a 742901F0 		.ascii	"t)\001\360K\354f\3148\374\2001ap\001\002\200F\375nS"
  3737      4BEC66CC 
-ARM GAS  /tmp/ccIcOWNX.s 			page 127
+ARM GAS  /tmp/ccLgBITb.s 			page 127
 
 
  3737      38FC8031 
@@ -7618,7 +7618,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3749      36F34497 
  3749      427C57C0 
  3749      97756C42 
-ARM GAS  /tmp/ccIcOWNX.s 			page 128
+ARM GAS  /tmp/ccLgBITb.s 			page 128
 
 
  3749      76001677 
@@ -7678,7 +7678,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3761      4583595B 
  3761      1D464BA0 
  3761      85B8
-ARM GAS  /tmp/ccIcOWNX.s 			page 129
+ARM GAS  /tmp/ccLgBITb.s 			page 129
 
 
  3762 044a AA60509C 		.ascii	"\252`P\234Z\317R9\022\351wVg\376m\254\353\371(\230\023"
@@ -7708,7 +7708,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3767 04a6 FF027C30 		.ascii	"\377\002|0\264\017"
  3767      B40F
  3768              		.text
- 3769              		.section	.gnu.lto_chSemSignalWait.b4619036927741cc,"e",%progbits
+ 3769              		.section	.gnu.lto_chSemSignalWait.cfcf5b5e143c3fd1,"e",%progbits
  3770 0000 789C9557 		.ascii	"x\234\225W\373ST\327\035?\337s\356\356\362\020\203@"
  3770      FB5354D7 
  3770      1D3FDF73 
@@ -7738,7 +7738,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3775      C1B8B373 
  3775      E7DC73CE 
  3776 0066 F7FBF93E 		.ascii	"\367\373\371>?\347\236(\006\014\022\031K\002\306\346"
-ARM GAS  /tmp/ccIcOWNX.s 			page 130
+ARM GAS  /tmp/ccLgBITb.s 			page 130
 
 
  3776      3FE79E28 
@@ -7798,7 +7798,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3787      CCD11D5F 
  3787      9ED3
  3788 0143 C43B52FE 		.ascii	"\304;R\376\331\312\363}\226\264\032ixwO\302\306|\275"
-ARM GAS  /tmp/ccIcOWNX.s 			page 131
+ARM GAS  /tmp/ccLgBITb.s 			page 131
 
 
  3788      D9CAF37D 
@@ -7858,7 +7858,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3799      AABABDCB 
  3799      04C7
  3800 0219 200D3A28 		.ascii	" \015:(\036\255`F\240\200=\032\203\343\230\011\031z"
-ARM GAS  /tmp/ccIcOWNX.s 			page 132
+ARM GAS  /tmp/ccLgBITb.s 			page 132
 
 
  3800      1EAD6046 
@@ -7918,7 +7918,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3811      5F7BC5CA 
  3811      D6FE81C4 
  3811      5CA9
-ARM GAS  /tmp/ccIcOWNX.s 			page 133
+ARM GAS  /tmp/ccLgBITb.s 			page 133
 
 
  3812 02f1 14D6DA8E 		.ascii	"\024\326\332\216S\373c\305\036\220\325\364E\357\300"
@@ -7978,7 +7978,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3823      8046F1BE 
  3823      24232FFD 
  3823      90A6F797 
-ARM GAS  /tmp/ccIcOWNX.s 			page 134
+ARM GAS  /tmp/ccLgBITb.s 			page 134
 
 
  3824 03c7 94AB61F5 		.ascii	"\224\253a\365\347\015\323\324\\\321\262\254Q\352d{\306"
@@ -8038,7 +8038,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3835      E375F91E 
  3835      750818
  3836 0498 C41A406D 		.ascii	"\304\032@m\327\024\035o}5:\276f\364\317uHC\247d\277"
-ARM GAS  /tmp/ccIcOWNX.s 			page 135
+ARM GAS  /tmp/ccLgBITb.s 			page 135
 
 
  3836      D7141D6F 
@@ -8098,7 +8098,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3847 056b 2C93EACF 		.ascii	",\223\352\317\014\\\342\241\242\322\355\262/d\205\370"
  3847      0C5CE2A1 
  3847      A2D2EDB2 
-ARM GAS  /tmp/ccIcOWNX.s 			page 136
+ARM GAS  /tmp/ccLgBITb.s 			page 136
 
 
  3847      2F6485F8 
@@ -8158,7 +8158,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3859      D3EA653B 
  3859      023B3511 
  3859      964A032D 
-ARM GAS  /tmp/ccIcOWNX.s 			page 137
+ARM GAS  /tmp/ccLgBITb.s 			page 137
 
 
  3859      4AB0E06A 
@@ -8218,7 +8218,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3871      75DBC15B 
  3871      3B2CA872 
  3871      54C3DDCD 
-ARM GAS  /tmp/ccIcOWNX.s 			page 138
+ARM GAS  /tmp/ccLgBITb.s 			page 138
 
 
  3872 0724 D6F1DAF6 		.ascii	"\326\361\332\366\037\3210\264\327\347\262\221c-\011"
@@ -8278,7 +8278,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3884      F0AC1EB4 
  3884      792F629D 
  3884      D723
-ARM GAS  /tmp/ccIcOWNX.s 			page 139
+ARM GAS  /tmp/ccLgBITb.s 			page 139
 
 
  3885 07f4 5CC4927A 		.ascii	"\\\304\222z\314R\251\033\315a\260\211{/bw\002.b\201"
@@ -8338,7 +8338,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3896      F2A6454E 
  3896      DCF366E0 
  3896      BA3D3B2B 
-ARM GAS  /tmp/ccIcOWNX.s 			page 140
+ARM GAS  /tmp/ccLgBITb.s 			page 140
 
 
  3896      2B7BA12D 
@@ -8367,7 +8367,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3901      56B66311 
  3902 0932 3387D8   		.ascii	"3\207\330"
  3903              		.text
- 3904              		.section	.gnu.lto_.symbol_nodes.b4619036927741cc,"e",%progbits
+ 3904              		.section	.gnu.lto_.symbol_nodes.cfcf5b5e143c3fd1,"e",%progbits
  3905 0000 789C75D1 		.ascii	"x\234u\321=K\003A\020\006\340\231wr\371\272\344.w\001"
  3905      3D4B0341 
  3905      1006E099 
@@ -8398,7 +8398,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3910      A1B06213 
  3910      2A7F915A 
  3910      B585
-ARM GAS  /tmp/ccIcOWNX.s 			page 141
+ARM GAS  /tmp/ccLgBITb.s 			page 141
 
 
  3911 0072 985AD0D4 		.ascii	"\230Z\320\324\353gc\356\277\034B\235d9\202\246-\327"
@@ -8450,7 +8450,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3920      68897E00 
  3920      55E9DC0B 
  3921              		.text
- 3922              		.section	.gnu.lto_.refs.b4619036927741cc,"e",%progbits
+ 3922              		.section	.gnu.lto_.refs.cfcf5b5e143c3fd1,"e",%progbits
  3923 0000 789CE360 		.ascii	"x\234\343``d\020f```b``db`\024\007\021L\214|\014\214"
  3923      60641066 
  3923      60606062 
@@ -8458,11 +8458,11 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3923      60140711 
  3924 0019 C60C0005 		.ascii	"\306\014\000\005 \000\203"
  3924      200083
-ARM GAS  /tmp/ccIcOWNX.s 			page 142
+ARM GAS  /tmp/ccLgBITb.s 			page 142
 
 
  3925              		.text
- 3926              		.section	.gnu.lto_.decls.b4619036927741cc,"e",%progbits
+ 3926              		.section	.gnu.lto_.decls.cfcf5b5e143c3fd1,"e",%progbits
  3927 0000 789CAD5A 		.ascii	"x\234\255ZyTUIz\277u\353m<\036`\213v\333j2}z\2343=3"
  3927      79545549 
  3927      7ABF75EB 
@@ -8518,7 +8518,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3938      728C9689 
  3938      FA
  3939 00d4 09A646E8 		.ascii	"\011\246F\350oB\"F\2706\000\225\001\245\003\031\201"
-ARM GAS  /tmp/ccIcOWNX.s 			page 143
+ARM GAS  /tmp/ccLgBITb.s 			page 143
 
 
  3939      6F422246 
@@ -8578,7 +8578,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3950      5B735907 
  3950      F7AEBC3D 
  3950      DEEF3989 
-ARM GAS  /tmp/ccIcOWNX.s 			page 144
+ARM GAS  /tmp/ccLgBITb.s 			page 144
 
 
  3950      852D
@@ -8638,7 +8638,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3961      A9EB
  3962 027f AE1C5B0F 		.ascii	"\256\034[\017{\034\304\211\330\262\306\246\246\020\363"
  3962      7B1CC489 
-ARM GAS  /tmp/ccIcOWNX.s 			page 145
+ARM GAS  /tmp/ccLgBITb.s 			page 145
 
 
  3962      D8B2C6A6 
@@ -8698,7 +8698,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3974      8944938A 
  3974      43B760FC 
  3974      4D188FEE 
-ARM GAS  /tmp/ccIcOWNX.s 			page 146
+ARM GAS  /tmp/ccLgBITb.s 			page 146
 
 
  3974      81BE
@@ -8758,7 +8758,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3986 0432 856B6E22 		.ascii	"\205kn\"\3117l\300\300\333\346\254\217Q\025\360\334"
  3986      C9376CC0 
  3986      C0DBE6AC 
-ARM GAS  /tmp/ccIcOWNX.s 			page 147
+ARM GAS  /tmp/ccLgBITb.s 			page 147
 
 
  3986      8F5115F0 
@@ -8818,7 +8818,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  3998      A0D8C58B 
  3998      EAE42390 
  3998      1D62AB
-ARM GAS  /tmp/ccIcOWNX.s 			page 148
+ARM GAS  /tmp/ccLgBITb.s 			page 148
 
 
  3999 0518 40CE2254 		.ascii	"@\316\"T\004\303!Ke\255\272\020\035\243\356D\355\341"
@@ -8878,7 +8878,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4010      B004217D 
  4010      28218740 
  4010      280208
-ARM GAS  /tmp/ccIcOWNX.s 			page 149
+ARM GAS  /tmp/ccLgBITb.s 			page 149
 
 
  4011 05ea B5E1FC29 		.ascii	"\265\341\374)\030\3641aA\335J\355\335\012\355\320\371"
@@ -8938,7 +8938,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4022      995D
  4023 06bb 6A010B9A 		.ascii	"j\001\013\232S*\237\263uL\004O\034\323\2620x\306\005"
  4023      532A9FB3 
-ARM GAS  /tmp/ccIcOWNX.s 			page 150
+ARM GAS  /tmp/ccLgBITb.s 			page 150
 
 
  4023      754C044F 
@@ -8998,7 +8998,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4034      BA441B74 
  4034      60E05E2A 
  4034      6D67616C 
-ARM GAS  /tmp/ccIcOWNX.s 			page 151
+ARM GAS  /tmp/ccLgBITb.s 			page 151
 
 
  4035 07a8 0E373269 		.ascii	"\01672iI\265Y\247\324\022\272\277\261\010#\363}\237"
@@ -9058,7 +9058,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4047 0870 944F56A1 		.ascii	"\224OV\241\217aS\224\301\323\001d\243t\224_\205\216"
  4047      8F615394 
  4047      C1D30164 
-ARM GAS  /tmp/ccIcOWNX.s 			page 152
+ARM GAS  /tmp/ccLgBITb.s 			page 152
 
 
  4047      A374945F 
@@ -9118,7 +9118,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4059      D3D4EC12 
  4059      AA09
  4060 0950 18509E4C 		.ascii	"\030P\236LS\236\244\351<\253B\347\316\364\352q\273\312"
-ARM GAS  /tmp/ccIcOWNX.s 			page 153
+ARM GAS  /tmp/ccLgBITb.s 			page 153
 
 
  4060      539EA4E9 
@@ -9178,7 +9178,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4071      6200
  4072 0a27 52EEF2F2 		.ascii	"R\356\362\362\275\363\231\312\274\375z\305\211\001\257"
  4072      BDF399CA 
-ARM GAS  /tmp/ccIcOWNX.s 			page 154
+ARM GAS  /tmp/ccLgBITb.s 			page 154
 
 
  4072      BCFD7AC5 
@@ -9238,7 +9238,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4084      9DACD15D 
  4084      73B958E3 
  4084      EC280835 
-ARM GAS  /tmp/ccIcOWNX.s 			page 155
+ARM GAS  /tmp/ccLgBITb.s 			page 155
 
 
  4084      81
@@ -9298,7 +9298,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4096      0EA4F5AE 
  4096      C0B7D9C8 
  4096      D8
-ARM GAS  /tmp/ccIcOWNX.s 			page 156
+ARM GAS  /tmp/ccLgBITb.s 			page 156
 
 
  4097 0be5 B8857318 		.ascii	"\270\205s\030\227j\304\222q\254\305\340H\316\220C9O"
@@ -9358,7 +9358,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4108 0cb6 6E2D9E60 		.ascii	"n-\236`\215\227)\025Ynx\2265\366\235\251m\320\340\005"
  4108      8D972915 
  4108      596E7896 
-ARM GAS  /tmp/ccIcOWNX.s 			page 157
+ARM GAS  /tmp/ccLgBITb.s 			page 157
 
 
  4108      35F69DA9 
@@ -9418,7 +9418,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4119      30B3C809 
  4119      72996C7A 
  4119      C003
-ARM GAS  /tmp/ccIcOWNX.s 			page 158
+ARM GAS  /tmp/ccLgBITb.s 			page 158
 
 
  4120 0da0 EC0F61ED 		.ascii	"\354\017a\355|`\307^\311+\205O=\260\326\364\335\330"
@@ -9478,7 +9478,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4131 0e70 1199E581 		.ascii	"\021\231\345\201\353X\231\310\270\037S\355\202\033X"
  4131      EB5899C8 
  4131      B81F53ED 
-ARM GAS  /tmp/ccIcOWNX.s 			page 159
+ARM GAS  /tmp/ccLgBITb.s 			page 159
 
 
  4131      821B58
@@ -9538,7 +9538,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4143      8058BB9A 
  4143      C494BD80 
  4143      F508
-ARM GAS  /tmp/ccIcOWNX.s 			page 160
+ARM GAS  /tmp/ccLgBITb.s 			page 160
 
 
  4144 0f56 363DE8F2 		.ascii	"6=\350\362\353'\320\330\277\263\011D\016+N9a\267\373"
@@ -9598,7 +9598,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4155      7954865B 
  4155      64B5D06C 
  4155      876CC106 
-ARM GAS  /tmp/ccIcOWNX.s 			page 161
+ARM GAS  /tmp/ccLgBITb.s 			page 161
 
 
  4156 102a 5752612E 		.ascii	"WRa.zCa\376\017eav\304.[q[l\012\263#0R\241\355\0369"
@@ -9658,7 +9658,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4167      762976CE 
  4167      72FD1A28 
  4167      CF2753FA 
-ARM GAS  /tmp/ccIcOWNX.s 			page 162
+ARM GAS  /tmp/ccLgBITb.s 			page 162
 
 
  4167      9E3880D8 
@@ -9718,7 +9718,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4179      4C7E1CD4 
  4179      A6589847 
  4179      2E5CB963 
-ARM GAS  /tmp/ccIcOWNX.s 			page 163
+ARM GAS  /tmp/ccLgBITb.s 			page 163
 
 
  4179      BF803FB0 
@@ -9778,7 +9778,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4191      AB6CB588 
  4191      A83A169F 
  4191      B1200236 
-ARM GAS  /tmp/ccIcOWNX.s 			page 164
+ARM GAS  /tmp/ccLgBITb.s 			page 164
 
 
  4191      34684534 
@@ -9838,7 +9838,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4203      2698AE51 
  4203      57C4C6C6 
  4203      9B33C2CD 
-ARM GAS  /tmp/ccIcOWNX.s 			page 165
+ARM GAS  /tmp/ccLgBITb.s 			page 165
 
 
  4203      BF60
@@ -9898,7 +9898,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4215      1F2664F7 
  4215      B85B1D3C 
  4215      A470F02E 
-ARM GAS  /tmp/ccIcOWNX.s 			page 166
+ARM GAS  /tmp/ccLgBITb.s 			page 166
 
 
  4215      0BF2
@@ -9958,7 +9958,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4227      6FC1CDB4 
  4228 1548 DDE41F24 		.ascii	"\335\344\037$\030C\267\370\004x\013\352@\323&o\001\257"
  4228      1843B7F8 
-ARM GAS  /tmp/ccIcOWNX.s 			page 167
+ARM GAS  /tmp/ccLgBITb.s 			page 167
 
 
  4228      04780BEA 
@@ -10018,7 +10018,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4240 1618 0DBCEF66 		.ascii	"\015\274\357f}\240\017\204\203e\013\374\011\010\011"
  4240      7DA00F84 
  4240      83650BFC 
-ARM GAS  /tmp/ccIcOWNX.s 			page 168
+ARM GAS  /tmp/ccLgBITb.s 			page 168
 
 
  4240      090809
@@ -10078,7 +10078,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4252      C110926D 
  4252      C2
  4253 16f1 47F27CF3 		.ascii	"G\362|\363\015\016\014\014\016\362\"\317M^\277\374\362"
-ARM GAS  /tmp/ccIcOWNX.s 			page 169
+ARM GAS  /tmp/ccLgBITb.s 			page 169
 
 
  4253      0D0E0C0C 
@@ -10138,7 +10138,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4265      E9B1BFA0 
  4265      0B83987C 
  4265      F2536F89 
-ARM GAS  /tmp/ccIcOWNX.s 			page 170
+ARM GAS  /tmp/ccLgBITb.s 			page 170
 
 
  4265      2BC0
@@ -10171,7 +10171,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4271      FF07
  4272 182a 187DC617 		.ascii	"\030}\306\027"
  4273              		.text
- 4274              		.section	.gnu.lto_.symtab.b4619036927741cc,"e",%progbits
+ 4274              		.section	.gnu.lto_.symtab.cfcf5b5e143c3fd1,"e",%progbits
  4275 0000 63685365 		.ascii	"chSemObjectInit\000"
  4275      6D4F626A 
  4275      65637449 
@@ -10198,7 +10198,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4287      65745769 
  4287      74684D65 
  4287      73736167 
-ARM GAS  /tmp/ccIcOWNX.s 			page 171
+ARM GAS  /tmp/ccLgBITb.s 			page 171
 
 
  4288 005b 00       		.ascii	"\000"
@@ -10258,7 +10258,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4322 00f5 15010000 		.ascii	"\025\001\000\000"
  4323 00f9 63685365 		.ascii	"chSemSignalI\000"
  4323      6D536967 
-ARM GAS  /tmp/ccIcOWNX.s 			page 172
+ARM GAS  /tmp/ccLgBITb.s 			page 172
 
 
  4323      6E616C49 
@@ -10318,7 +10318,7 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4357 019b 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
  4357      00000000 
  4358 01a3 29010000 		.ascii	")\001\000\000"
-ARM GAS  /tmp/ccIcOWNX.s 			page 173
+ARM GAS  /tmp/ccLgBITb.s 			page 173
 
 
  4359 01a7 63685363 		.ascii	"chSchReadyI\000"
@@ -10378,18 +10378,18 @@ ARM GAS  /tmp/ccIcOWNX.s 			page 1
  4383      2D666C74 
  4383      6F2700
  4384              		.text
-ARM GAS  /tmp/ccIcOWNX.s 			page 174
+ARM GAS  /tmp/ccLgBITb.s 			page 174
 
 
  4385              		.comm	__gnu_lto_v1,1,1
  4386              		.comm	__gnu_lto_slim,1,1
  4387              		.ident	"GCC: (15:9-2019-q4-0ubuntu1) 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599]"
-ARM GAS  /tmp/ccIcOWNX.s 			page 175
+ARM GAS  /tmp/ccLgBITb.s 			page 175
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chsem.c
-     /tmp/ccIcOWNX.s:36     .gnu.debuglto_.debug_info:0000000000000000 chsem.c.e229bbbb
+     /tmp/ccLgBITb.s:36     .gnu.debuglto_.debug_info:0000000000000000 chsem.c.e229bbbb
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 

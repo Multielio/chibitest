@@ -264,10 +264,7 @@ public:
      */
     virtual void wait_while_active(void) = 0;
 
-    /**
-     * @brief Destructor.
-     */
-    virtual ~StepperMotor() {};
+    
 };
 
 #endif /* __STEPPERMOTOR_CLASS_H */

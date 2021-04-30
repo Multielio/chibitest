@@ -93,19 +93,12 @@ XNucleoIHM02A1::XNucleoIHM02A1(L6470_init_t *init_0, L6470_init_t *init_1, iolin
 
 
     /* Instantiating the components. */
-    /* ACTION 3 --------------------------------------------------------------*
-     * Instantiate here the expansion board's components.                     *
-     *                                                                        *
-     * Example:                                                               *
-     *   component_1 = new COMPONENT_1(ssel, *dev_spi);                       *
-     *   component_2 = new COMPONENT_2(ssel, *dev_spi);                       *
-     *------------------------------------------------------------------------*/
     l6470_0 = (L6470*) chCoreAlloc(sizeof(L6470));
     l6470_1 = (L6470*) chCoreAlloc(sizeof(L6470));
     *l6470_0 = L6470(flag_irq, busy_irq, standby_reset, ssel);
     *l6470_1 = L6470(flag_irq, busy_irq, standby_reset, ssel);
-    //components[0] = l6470_0 = &l1;
-    //components[1] = l6470_1 = &l2;
+    components[0] = l6470_0;
+    components[1] = l6470_1;
 
     /* Initializing the components. */
     init_components[0] = init_0;
@@ -123,15 +116,10 @@ XNucleoIHM02A1::XNucleoIHM02A1(L6470_init_t *init_0, L6470_init_t *init_1, iolin
 bool XNucleoIHM02A1::init(void)
 {
     /* Initializing the components. */
-    /* ACTION 4 --------------------------------------------------------------*
-     * Initialize here the expansion board's components.                      *
-     *                                                                        *
-     * Example:                                                               *
-     *   return (init_COMPONENT_1() && init_COMPONENT_2());                   *
-     *------------------------------------------------------------------------*/
+   
     /* Disable the L6470. */
     // OLD
-    //digitalWrite(standby_reset, 0);
+    // digitalWrite(standby_reset, 0);
     // NEW
     palWriteLine(standby_reset, PAL_LOW);
 
@@ -149,35 +137,7 @@ bool XNucleoIHM02A1::init(void)
     return (init_L6470_0() && init_L6470_1());
 }
 
-/* ACTION 5 ------------------------------------------------------------------*
- * Implement here an initialization method for each expansion board's         *
- * component.                                                                 *
- *                                                                            *
- * Example:                                                                   *
- *   bool ExpansionBoard::init_COMPONENT_1(void)                              *
- *   {                                                                        *
- *     // Verifying identity.                                                 *
- *     uint8_t id = 0;                                                        *
- *     int ret = component_1->read_id(&id);                                   *
- *     if ((ret != COMPONENT_OK) || (id != I_AM_COMPONENT_1))                 *
- *     {                                                                      *
- *       delete component_1;                                                  *
- *       component_1 = NULL;                                                  *
- *       return true;                                                         *
- *     }                                                                      *
- *                                                                            *
- *     // Configuration.                                                      *
- *     COMPONENT_init_t init;                                                 *
- *     init.property_1 = COMPONENT_1_PROPERY_1_INIT;                          *
- *     init.property_N = COMPONENT_1_PROPERY_N_INIT;                          *
- *                                                                            *
- *     // Initialization.                                                     *
- *     if (component_1->init(&init) != COMPONENT_OK)                          *
- *       return false;                                                        *
- *                                                                            *
- *     return true;                                                           *
- *   }                                                                        *
- *----------------------------------------------------------------------------*/
+
 /**
  * @brief  Initialize the L6470 component.
  * @retval true if initialization is successful, false otherwise.

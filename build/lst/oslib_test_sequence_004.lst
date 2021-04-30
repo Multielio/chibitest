@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccK25jTV.s 			page 1
+ARM GAS  /tmp/ccv2z1Kw.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
   55              		.section	.gnu.debuglto_.debug_info,"e",%progbits
   56              	.Ldebug_info0:
   57              		.hidden	oslib_test_sequence_004.c.5ae7f471
-ARM GAS  /tmp/ccK25jTV.s 			page 2
+ARM GAS  /tmp/ccv2z1Kw.s 			page 2
 
 
   58              		.weak	oslib_test_sequence_004.c.5ae7f471
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  112 006b 05       		.byte	0x5
  113 006c D8010000 		.4byte	.LASF7
  114 0070 03       		.uleb128 0x3
-ARM GAS  /tmp/ccK25jTV.s 			page 3
+ARM GAS  /tmp/ccv2z1Kw.s 			page 3
 
 
  115 0071 68020000 		.4byte	.LASF8
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  169 00da 70000000 		.4byte	0x70
  170 00de 03       		.uleb128 0x3
  171 00df F9010000 		.4byte	.LASF18
-ARM GAS  /tmp/ccK25jTV.s 			page 4
+ARM GAS  /tmp/ccv2z1Kw.s 			page 4
 
 
  172 00e3 03       		.byte	0x3
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  226 014f 44       		.byte	0x44
  227 0150 05       		.byte	0x5
  228 0151 8E       		.byte	0x8e
-ARM GAS  /tmp/ccK25jTV.s 			page 5
+ARM GAS  /tmp/ccv2z1Kw.s 			page 5
 
 
  229 0152 08       		.byte	0x8
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  283 01b8 A9       		.byte	0xa9
  284 01b9 19       		.byte	0x19
  285 01ba DE000000 		.4byte	0xde
-ARM GAS  /tmp/ccK25jTV.s 			page 6
+ARM GAS  /tmp/ccv2z1Kw.s 			page 6
 
 
  286 01be 20       		.byte	0x20
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  340 0225 19       		.byte	0x19
  341 0226 F6000000 		.4byte	0xf6
  342 022a 3C       		.byte	0x3c
-ARM GAS  /tmp/ccK25jTV.s 			page 7
+ARM GAS  /tmp/ccv2z1Kw.s 			page 7
 
 
  343 022b 0B       		.uleb128 0xb
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  397 0292 84       		.byte	0x84
  398 0293 1A       		.byte	0x1a
  399 0294 46020000 		.4byte	0x246
-ARM GAS  /tmp/ccK25jTV.s 			page 8
+ARM GAS  /tmp/ccv2z1Kw.s 			page 8
 
 
  400 0298 00       		.byte	0
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  454 0301 1A       		.byte	0x1a
  455 0302 46020000 		.4byte	0x246
  456 0306 14       		.byte	0x14
-ARM GAS  /tmp/ccK25jTV.s 			page 9
+ARM GAS  /tmp/ccv2z1Kw.s 			page 9
 
 
  457 0307 0B       		.uleb128 0xb
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  511 0371 3C01     		.2byte	0x13c
  512 0373 19       		.byte	0x19
  513 0374 7E040000 		.4byte	0x47e
-ARM GAS  /tmp/ccK25jTV.s 			page 10
+ARM GAS  /tmp/ccv2z1Kw.s 			page 10
 
 
  514 0378 08       		.byte	0x8
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  568 03e2 19       		.byte	0x19
  569 03e3 72040000 		.4byte	0x472
  570 03e7 0C       		.byte	0xc
-ARM GAS  /tmp/ccK25jTV.s 			page 11
+ARM GAS  /tmp/ccv2z1Kw.s 			page 11
 
 
  571 03e8 00       		.byte	0
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  625 0451 E9030000 		.4byte	0x3e9
  626 0455 2C       		.byte	0x2c
  627 0456 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccK25jTV.s 			page 12
+ARM GAS  /tmp/ccv2z1Kw.s 			page 12
 
 
  628 0457 98090000 		.4byte	.LASF68
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  682 04c5 6F080000 		.4byte	.LASF74
  683 04c9 08       		.byte	0x8
  684 04ca 4E       		.byte	0x4e
-ARM GAS  /tmp/ccK25jTV.s 			page 13
+ARM GAS  /tmp/ccv2z1Kw.s 			page 13
 
 
  685 04cb 17       		.byte	0x17
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  739 0538 8301     		.2byte	0x183
  740 053a 11       		.byte	0x11
  741 053b A7000000 		.4byte	0xa7
-ARM GAS  /tmp/ccK25jTV.s 			page 14
+ARM GAS  /tmp/ccv2z1Kw.s 			page 14
 
 
  742 053f 10       		.byte	0x10
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  796 05a5 A7000000 		.4byte	0xa7
  797 05a9 10       		.byte	0x10
  798 05aa 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccK25jTV.s 			page 15
+ARM GAS  /tmp/ccv2z1Kw.s 			page 15
 
 
  799 05ab 1C060000 		.4byte	.LASF81
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  853 0614 0A       		.uleb128 0xa
  854 0615 42525200 		.ascii	"BRR\000"
  855 0619 09       		.byte	0x9
-ARM GAS  /tmp/ccK25jTV.s 			page 16
+ARM GAS  /tmp/ccv2z1Kw.s 			page 16
 
 
  856 061a 1D03     		.2byte	0x31d
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  910 0686 0B       		.byte	0xb
  911 0687 9E01     		.2byte	0x19e
  912 0689 11       		.byte	0x11
-ARM GAS  /tmp/ccK25jTV.s 			page 17
+ARM GAS  /tmp/ccv2z1Kw.s 			page 17
 
 
  913 068a 9B000000 		.4byte	0x9b
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  967 06f1 A601     		.2byte	0x1a6
  968 06f3 11       		.byte	0x11
  969 06f4 9B000000 		.4byte	0x9b
-ARM GAS  /tmp/ccK25jTV.s 			page 18
+ARM GAS  /tmp/ccv2z1Kw.s 			page 18
 
 
  970 06f8 20       		.byte	0x20
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1024 0759 05       		.byte	0x5
  1025 075a D4       		.byte	0xd4
  1026 075b 19       		.byte	0x19
-ARM GAS  /tmp/ccK25jTV.s 			page 19
+ARM GAS  /tmp/ccv2z1Kw.s 			page 19
 
 
  1027 075c 02010000 		.4byte	0x102
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1081 07c9 00       		.byte	0
  1082 07ca 09       		.uleb128 0x9
  1083 07cb 636E7400 		.ascii	"cnt\000"
-ARM GAS  /tmp/ccK25jTV.s 			page 20
+ARM GAS  /tmp/ccv2z1Kw.s 			page 20
 
 
  1084 07cf 0D       		.byte	0xd
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1138 0832 68060000 		.4byte	0x668
  1139 0836 0C       		.uleb128 0xc
  1140 0837 04       		.byte	0x4
-ARM GAS  /tmp/ccK25jTV.s 			page 21
+ARM GAS  /tmp/ccv2z1Kw.s 			page 21
 
 
  1141 0838 35030000 		.4byte	0x335
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1195 08a2 49       		.byte	0x49
  1196 08a3 15       		.byte	0x15
  1197 08a4 F6000000 		.4byte	0xf6
-ARM GAS  /tmp/ccK25jTV.s 			page 22
+ARM GAS  /tmp/ccv2z1Kw.s 			page 22
 
 
  1198 08a8 0C       		.byte	0xc
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1252 0908 88000000 		.4byte	0x88
  1253 090c 06       		.byte	0x6
  1254 090d 08       		.uleb128 0x8
-ARM GAS  /tmp/ccK25jTV.s 			page 23
+ARM GAS  /tmp/ccv2z1Kw.s 			page 23
 
 
  1255 090e 99030000 		.4byte	.LASF115
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1309 0974 0F       		.byte	0xf
  1310 0975 08       		.uleb128 0x8
  1311 0976 18050000 		.4byte	.LASF123
-ARM GAS  /tmp/ccK25jTV.s 			page 24
+ARM GAS  /tmp/ccv2z1Kw.s 			page 24
 
 
  1312 097a 11       		.byte	0x11
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1366 09e0 06       		.uleb128 0x6
  1367 09e1 D4090000 		.4byte	0x9d4
  1368 09e5 12       		.uleb128 0x12
-ARM GAS  /tmp/ccK25jTV.s 			page 25
+ARM GAS  /tmp/ccv2z1Kw.s 			page 25
 
 
  1369 09e6 48000000 		.4byte	.LASF130
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1423 0a4f 08       		.uleb128 0x8
  1424 0a50 37030000 		.4byte	.LASF34
  1425 0a54 12       		.byte	0x12
-ARM GAS  /tmp/ccK25jTV.s 			page 26
+ARM GAS  /tmp/ccv2z1Kw.s 			page 26
 
 
  1426 0a55 41       		.byte	0x41
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1480 0ab5 070B0000 		.4byte	0xb07
  1481 0ab9 04       		.byte	0x4
  1482 0aba 08       		.uleb128 0x8
-ARM GAS  /tmp/ccK25jTV.s 			page 27
+ARM GAS  /tmp/ccv2z1Kw.s 			page 27
 
 
  1483 0abb 5A050000 		.4byte	.LASF141
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1537 0b1c 970A0000 		.4byte	0xa97
  1538 0b20 03       		.uleb128 0x3
  1539 0b21 D4070000 		.4byte	.LASF146
-ARM GAS  /tmp/ccK25jTV.s 			page 28
+ARM GAS  /tmp/ccv2z1Kw.s 			page 28
 
 
  1540 0b25 14       		.byte	0x14
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1594 0b8e 15       		.byte	0x15
  1595 0b8f 38       		.byte	0x38
  1596 0b90 08       		.byte	0x8
-ARM GAS  /tmp/ccK25jTV.s 			page 29
+ARM GAS  /tmp/ccv2z1Kw.s 			page 29
 
 
  1597 0b91 A30B0000 		.4byte	0xba3
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1651 0bf4 1C       		.byte	0x1c
  1652 0bf5 15       		.byte	0x15
  1653 0bf6 4D       		.byte	0x4d
-ARM GAS  /tmp/ccK25jTV.s 			page 30
+ARM GAS  /tmp/ccv2z1Kw.s 			page 30
 
 
  1654 0bf7 09       		.byte	0x9
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1708 0c5d 5B       		.byte	0x5b
  1709 0c5e 10       		.byte	0x10
  1710 0c5f 22030000 		.4byte	0x322
-ARM GAS  /tmp/ccK25jTV.s 			page 31
+ARM GAS  /tmp/ccv2z1Kw.s 			page 31
 
 
  1711 0c63 07       		.uleb128 0x7
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1765 0cc6 D20C0000 		.4byte	0xcd2
  1766 0cca 08       		.byte	0x8
  1767 0ccb 00       		.byte	0
-ARM GAS  /tmp/ccK25jTV.s 			page 32
+ARM GAS  /tmp/ccv2z1Kw.s 			page 32
 
 
  1768 0ccc 0C       		.uleb128 0xc
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1822 0d37 0B       		.uleb128 0xb
  1823 0d38 54010000 		.4byte	.LASF171
  1824 0d3c 17       		.byte	0x17
-ARM GAS  /tmp/ccK25jTV.s 			page 33
+ARM GAS  /tmp/ccv2z1Kw.s 			page 33
 
 
  1825 0d3d 2C01     		.2byte	0x12c
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1879 0da8 16       		.uleb128 0x16
  1880 0da9 4A080000 		.4byte	.LASF179
  1881 0dad 17       		.byte	0x17
-ARM GAS  /tmp/ccK25jTV.s 			page 34
+ARM GAS  /tmp/ccv2z1Kw.s 			page 34
 
 
  1882 0dae 5301     		.2byte	0x153
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1936 0e1a 19       		.byte	0x19
  1937 0e1b 70000000 		.4byte	0x70
  1938 0e1f 0B       		.byte	0xb
-ARM GAS  /tmp/ccK25jTV.s 			page 35
+ARM GAS  /tmp/ccv2z1Kw.s 			page 35
 
 
  1939 0e20 00       		.byte	0
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  1993 0e9a 24000000 		.4byte	0x24
  1994 0e9e 00       		.byte	0
  1995 0e9f 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccK25jTV.s 			page 36
+ARM GAS  /tmp/ccv2z1Kw.s 			page 36
 
 
  1996 0ea0 04       		.byte	0x4
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2050 0f21 24000000 		.4byte	0x24
  2051 0f25 0F       		.uleb128 0xf
  2052 0f26 7E040000 		.4byte	0x47e
-ARM GAS  /tmp/ccK25jTV.s 			page 37
+ARM GAS  /tmp/ccv2z1Kw.s 			page 37
 
 
  2053 0f2a 00       		.byte	0
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2107 0f9f 19       		.byte	0x19
  2108 0fa0 4D       		.byte	0x4d
  2109 0fa1 19       		.byte	0x19
-ARM GAS  /tmp/ccK25jTV.s 			page 38
+ARM GAS  /tmp/ccv2z1Kw.s 			page 38
 
 
  2110 0fa2 30000000 		.4byte	0x30
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2164 1008 0E       		.uleb128 0xe
  2165 1009 13100000 		.4byte	0x1013
  2166 100d 0F       		.uleb128 0xf
-ARM GAS  /tmp/ccK25jTV.s 			page 39
+ARM GAS  /tmp/ccv2z1Kw.s 			page 39
 
 
  2167 100e 13100000 		.4byte	0x1013
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2221 1076 35000000 		.4byte	0x35
  2222 107a 0F       		.byte	0xf
  2223 107b 00       		.byte	0
-ARM GAS  /tmp/ccK25jTV.s 			page 40
+ARM GAS  /tmp/ccv2z1Kw.s 			page 40
 
 
  2224 107c 11       		.uleb128 0x11
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2278 10e3 03       		.byte	0x3
  2279 10e4 8B0A0000 		.4byte	0xa8b
  2280 10e8 04       		.byte	0x4
-ARM GAS  /tmp/ccK25jTV.s 			page 41
+ARM GAS  /tmp/ccv2z1Kw.s 			page 41
 
 
  2281 10e9 08       		.uleb128 0x8
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2335 114b 15       		.byte	0x15
  2336 114c B6100000 		.4byte	0x10b6
  2337 1150 07       		.uleb128 0x7
-ARM GAS  /tmp/ccK25jTV.s 			page 42
+ARM GAS  /tmp/ccv2z1Kw.s 			page 42
 
 
  2338 1151 F8040000 		.4byte	.LASF215
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2392 11b7 18       		.byte	0x18
  2393 11b8 08       		.uleb128 0x8
  2394 11b9 74000000 		.4byte	.LASF221
-ARM GAS  /tmp/ccK25jTV.s 			page 43
+ARM GAS  /tmp/ccv2z1Kw.s 			page 43
 
 
  2395 11bd 1C       		.byte	0x1c
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2449 1226 03       		.byte	0x3
  2450 1227 1F       		.uleb128 0x1f
  2451 1228 3F0C0000 		.4byte	.LASF227
-ARM GAS  /tmp/ccK25jTV.s 			page 44
+ARM GAS  /tmp/ccv2z1Kw.s 			page 44
 
 
  2452 122c 04       		.byte	0x4
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2506 128f 52130000 		.4byte	0x1352
  2507 1293 1C       		.byte	0x1c
  2508 1294 08       		.uleb128 0x8
-ARM GAS  /tmp/ccK25jTV.s 			page 45
+ARM GAS  /tmp/ccv2z1Kw.s 			page 45
 
 
  2509 1295 60050000 		.4byte	.LASF234
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2563 12fb 1D       		.byte	0x1d
  2564 12fc 1C130000 		.4byte	0x131c
  2565 1300 04       		.byte	0x4
-ARM GAS  /tmp/ccK25jTV.s 			page 46
+ARM GAS  /tmp/ccv2z1Kw.s 			page 46
 
 
  2566 1301 09       		.uleb128 0x9
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2620 1368 400A0000 		.4byte	.LASF31
  2621 136c 20       		.byte	0x20
  2622 136d 4D       		.byte	0x4d
-ARM GAS  /tmp/ccK25jTV.s 			page 47
+ARM GAS  /tmp/ccv2z1Kw.s 			page 47
 
 
  2623 136e 0F       		.byte	0xf
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2677 13d1 1E       		.byte	0x1e
  2678 13d2 D8130000 		.4byte	0x13d8
  2679 13d6 04       		.byte	0x4
-ARM GAS  /tmp/ccK25jTV.s 			page 48
+ARM GAS  /tmp/ccv2z1Kw.s 			page 48
 
 
  2680 13d7 00       		.byte	0
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2734 1440 12       		.uleb128 0x12
  2735 1441 65080000 		.4byte	.LASF252
  2736 1445 20       		.byte	0x20
-ARM GAS  /tmp/ccK25jTV.s 			page 49
+ARM GAS  /tmp/ccv2z1Kw.s 			page 49
 
 
  2737 1446 C9       		.byte	0xc9
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2791 14b2 19       		.byte	0x19
  2792 14b3 1D       		.byte	0x1d
  2793 14b4 F5130000 		.4byte	0x13f5
-ARM GAS  /tmp/ccK25jTV.s 			page 50
+ARM GAS  /tmp/ccv2z1Kw.s 			page 50
 
 
  2794 14b8 12       		.uleb128 0x12
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2848 1529 3D       		.byte	0x3d
  2849 152a 08       		.byte	0x8
  2850 152b 13150000 		.4byte	0x1513
-ARM GAS  /tmp/ccK25jTV.s 			page 51
+ARM GAS  /tmp/ccv2z1Kw.s 			page 51
 
 
  2851 152f 22       		.uleb128 0x22
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2905 159e 2B       		.byte	0x2b
  2906 159f 68       		.byte	0x68
  2907 15a0 19       		.byte	0x19
-ARM GAS  /tmp/ccK25jTV.s 			page 52
+ARM GAS  /tmp/ccv2z1Kw.s 			page 52
 
 
  2908 15a1 C4080000 		.4byte	0x8c4
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  2962 1608 25       		.uleb128 0x25
  2963 1609 490D0000 		.4byte	.LASF271
  2964 160d 2B       		.byte	0x2b
-ARM GAS  /tmp/ccK25jTV.s 			page 53
+ARM GAS  /tmp/ccv2z1Kw.s 			page 53
 
 
  2965 160e 37       		.byte	0x37
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3019 1681 35000000 		.4byte	0x35
  3020 1685 0D       		.byte	0xd
  3021 1686 00       		.byte	0
-ARM GAS  /tmp/ccK25jTV.s 			page 54
+ARM GAS  /tmp/ccv2z1Kw.s 			page 54
 
 
  3022 1687 06       		.uleb128 0x6
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3076 16fc 1D090000 		.4byte	.LASF277
  3077 1700 16       		.byte	0x16
  3078 1701 8B       		.byte	0x8b
-ARM GAS  /tmp/ccK25jTV.s 			page 55
+ARM GAS  /tmp/ccv2z1Kw.s 			page 55
 
 
  3079 1702 14       		.byte	0x14
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3133 1774 F6       		.byte	0xf6
  3134 1775 33       		.byte	0x33
  3135 1776 24000000 		.4byte	0x24
-ARM GAS  /tmp/ccK25jTV.s 			page 56
+ARM GAS  /tmp/ccv2z1Kw.s 			page 56
 
 
  3136 177a 00       		.byte	0
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3190 0023 39       		.uleb128 0x39
  3191 0024 0B       		.uleb128 0xb
  3192 0025 49       		.uleb128 0x49
-ARM GAS  /tmp/ccK25jTV.s 			page 57
+ARM GAS  /tmp/ccv2z1Kw.s 			page 57
 
 
  3193 0026 13       		.uleb128 0x13
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3247 005c 39       		.uleb128 0x39
  3248 005d 0B       		.uleb128 0xb
  3249 005e 49       		.uleb128 0x49
-ARM GAS  /tmp/ccK25jTV.s 			page 58
+ARM GAS  /tmp/ccv2z1Kw.s 			page 58
 
 
  3250 005f 13       		.uleb128 0x13
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3304 0095 00       		.byte	0
  3305 0096 00       		.byte	0
  3306 0097 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccK25jTV.s 			page 59
+ARM GAS  /tmp/ccv2z1Kw.s 			page 59
 
 
  3307 0098 0F       		.uleb128 0xf
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3361 00ce 0B       		.uleb128 0xb
  3362 00cf 3B       		.uleb128 0x3b
  3363 00d0 05       		.uleb128 0x5
-ARM GAS  /tmp/ccK25jTV.s 			page 60
+ARM GAS  /tmp/ccv2z1Kw.s 			page 60
 
 
  3364 00d1 39       		.uleb128 0x39
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3418 0107 3B       		.uleb128 0x3b
  3419 0108 05       		.uleb128 0x5
  3420 0109 39       		.uleb128 0x39
-ARM GAS  /tmp/ccK25jTV.s 			page 61
+ARM GAS  /tmp/ccv2z1Kw.s 			page 61
 
 
  3421 010a 0B       		.uleb128 0xb
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3475 0140 0E       		.uleb128 0xe
  3476 0141 3A       		.uleb128 0x3a
  3477 0142 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccK25jTV.s 			page 62
+ARM GAS  /tmp/ccv2z1Kw.s 			page 62
 
 
  3478 0143 3B       		.uleb128 0x3b
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3532 0179 01       		.uleb128 0x1
  3533 017a 13       		.uleb128 0x13
  3534 017b 00       		.byte	0
-ARM GAS  /tmp/ccK25jTV.s 			page 63
+ARM GAS  /tmp/ccv2z1Kw.s 			page 63
 
 
  3535 017c 00       		.byte	0
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3589 01b2 03       		.uleb128 0x3
  3590 01b3 0E       		.uleb128 0xe
  3591 01b4 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccK25jTV.s 			page 64
+ARM GAS  /tmp/ccv2z1Kw.s 			page 64
 
 
  3592 01b5 0B       		.uleb128 0xb
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3646 01eb 00       		.byte	0
  3647 01ec 00       		.byte	0
  3648 01ed 26       		.uleb128 0x26
-ARM GAS  /tmp/ccK25jTV.s 			page 65
+ARM GAS  /tmp/ccv2z1Kw.s 			page 65
 
 
  3649 01ee 0B       		.uleb128 0xb
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3703 0224 39       		.uleb128 0x39
  3704 0225 0B       		.uleb128 0xb
  3705 0226 49       		.uleb128 0x49
-ARM GAS  /tmp/ccK25jTV.s 			page 66
+ARM GAS  /tmp/ccv2z1Kw.s 			page 66
 
 
  3706 0227 13       		.uleb128 0x13
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3760 025d 0B       		.uleb128 0xb
  3761 025e 27       		.uleb128 0x27
  3762 025f 19       		.uleb128 0x19
-ARM GAS  /tmp/ccK25jTV.s 			page 67
+ARM GAS  /tmp/ccv2z1Kw.s 			page 67
 
 
  3763 0260 01       		.uleb128 0x1
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3817 0296 00       		.byte	0
  3818 0297 00       		.byte	0
  3819              		.section	.gnu.debuglto_.debug_line,"e",%progbits
-ARM GAS  /tmp/ccK25jTV.s 			page 68
+ARM GAS  /tmp/ccv2z1Kw.s 			page 68
 
 
  3820              	.Ldebug_line0:
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3854 00d4 2E2E2F2E 		.ascii	"../../../os/hal/ports/STM32/LLD/DMAv2"
  3854      2E2F2E2E 
  3854      2F6F732F 
-ARM GAS  /tmp/ccK25jTV.s 			page 69
+ARM GAS  /tmp/ccv2z1Kw.s 			page 69
 
 
  3854      68616C2F 
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3873      00
  3874 0205 0E       		.uleb128 0xe
  3875 0206 00       		.uleb128 0
-ARM GAS  /tmp/ccK25jTV.s 			page 70
+ARM GAS  /tmp/ccv2z1Kw.s 			page 70
 
 
  3876 0207 00       		.uleb128 0
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3909      72652E68 
  3909      00
  3910 0287 04       		.uleb128 0x4
-ARM GAS  /tmp/ccK25jTV.s 			page 71
+ARM GAS  /tmp/ccv2z1Kw.s 			page 71
 
 
  3911 0288 00       		.uleb128 0
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3949 0300 63686D65 		.ascii	"chmemcore.h\000"
  3949      6D636F72 
  3949      652E6800 
-ARM GAS  /tmp/ccK25jTV.s 			page 72
+ARM GAS  /tmp/ccv2z1Kw.s 			page 72
 
 
  3950 030c 0A       		.uleb128 0xa
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  3984 0386 00       		.uleb128 0
  3985 0387 68616C5F 		.ascii	"hal_serial_lld.h\000"
  3985      73657269 
-ARM GAS  /tmp/ccK25jTV.s 			page 73
+ARM GAS  /tmp/ccv2z1Kw.s 			page 73
 
 
  3985      616C5F6C 
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4014 0437 0D       		.uleb128 0xd
  4015 0438 00       		.uleb128 0
  4016 0439 00       		.uleb128 0
-ARM GAS  /tmp/ccK25jTV.s 			page 74
+ARM GAS  /tmp/ccv2z1Kw.s 			page 74
 
 
  4017 043a 6F736C69 		.ascii	"oslib_test_sequence_005.h\000"
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4043 04fb 00       		.uleb128 0
  4044 04fc 00       		.uleb128 0
  4045 04fd 00       		.byte	0
-ARM GAS  /tmp/ccK25jTV.s 			page 75
+ARM GAS  /tmp/ccv2z1Kw.s 			page 75
 
 
  4046              	.LELTP0:
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4078 007b 76746675 		.ascii	"vtfunc_t\000"
  4078      6E635F74 
  4078      00
-ARM GAS  /tmp/ccK25jTV.s 			page 76
+ARM GAS  /tmp/ccv2z1Kw.s 			page 76
 
 
  4079              	.LASF59:
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4103 0141 6D6F732F 		.ascii	"mos/STM32/R1\000"
  4103      53544D33 
  4103      322F5231 
-ARM GAS  /tmp/ccK25jTV.s 			page 77
+ARM GAS  /tmp/ccv2z1Kw.s 			page 77
 
 
  4103      00
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4132              	.LASF7:
  4133 01d8 6C6F6E67 		.ascii	"long int\000"
  4133      20696E74 
-ARM GAS  /tmp/ccK25jTV.s 			page 78
+ARM GAS  /tmp/ccv2z1Kw.s 			page 78
 
 
  4133      00
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4163 0261 65776D61 		.ascii	"ewmask\000"
  4163      736B00
  4164              	.LASF8:
-ARM GAS  /tmp/ccK25jTV.s 			page 79
+ARM GAS  /tmp/ccv2z1Kw.s 			page 79
 
 
  4165 0268 75696E74 		.ascii	"uint8_t\000"
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4194              	.LASF165:
  4195 02f3 6A6F625F 		.ascii	"job_descriptor_t\000"
  4195      64657363 
-ARM GAS  /tmp/ccK25jTV.s 			page 80
+ARM GAS  /tmp/ccv2z1Kw.s 			page 80
 
 
  4195      72697074 
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4223 037b 73747265 		.ascii	"stream\000"
  4223      616D00
  4224              	.LASF107:
-ARM GAS  /tmp/ccK25jTV.s 			page 81
+ARM GAS  /tmp/ccv2z1Kw.s 			page 81
 
 
  4225 0382 77626173 		.ascii	"wbase\000"
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4253      00
  4254              	.LASF249:
  4255 0409 74657374 		.ascii	"testsequence_t\000"
-ARM GAS  /tmp/ccK25jTV.s 			page 82
+ARM GAS  /tmp/ccv2z1Kw.s 			page 82
 
 
  4255      73657175 
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4279      646C655F 
  4279      74687265 
  4279      61645F77 
-ARM GAS  /tmp/ccK25jTV.s 			page 83
+ARM GAS  /tmp/ccv2z1Kw.s 			page 83
 
 
  4279      6100
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4305 0541 63685F6A 		.ascii	"ch_jobs_queue\000"
  4305      6F62735F 
  4305      71756575 
-ARM GAS  /tmp/ccK25jTV.s 			page 84
+ARM GAS  /tmp/ccv2z1Kw.s 			page 84
 
 
  4305      6500
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4333 05d8 6576656E 		.ascii	"event_source_t\000"
  4333      745F736F 
  4333      75726365 
-ARM GAS  /tmp/ccK25jTV.s 			page 85
+ARM GAS  /tmp/ccv2z1Kw.s 			page 85
 
 
  4333      5F7400
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4361 0679 72656164 		.ascii	"read\000"
  4361      00
  4362              	.LASF257:
-ARM GAS  /tmp/ccK25jTV.s 			page 86
+ARM GAS  /tmp/ccv2z1Kw.s 			page 86
 
 
  4363 067e 6F736C69 		.ascii	"oslib_test_sequence_004\000"
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4384              	.LASF187:
  4385 0737 73746D33 		.ascii	"stm32_dma_stream_t\000"
  4385      325F646D 
-ARM GAS  /tmp/ccK25jTV.s 			page 87
+ARM GAS  /tmp/ccv2z1Kw.s 			page 87
 
 
  4385      615F7374 
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4409      71756575 
  4409      6500
  4410              	.LASF204:
-ARM GAS  /tmp/ccK25jTV.s 			page 88
+ARM GAS  /tmp/ccv2z1Kw.s 			page 88
 
 
  4411 07f2 5F70616C 		.ascii	"_pal_events\000"
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4435      696D6572 
  4435      00
  4436              	.LASF113:
-ARM GAS  /tmp/ccK25jTV.s 			page 89
+ARM GAS  /tmp/ccv2z1Kw.s 			page 89
 
 
  4437 088e 73697A65 		.ascii	"size\000"
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4464              	.LASF186:
  4465 0916 76656374 		.ascii	"vector\000"
  4465      6F7200
-ARM GAS  /tmp/ccK25jTV.s 			page 90
+ARM GAS  /tmp/ccv2z1Kw.s 			page 90
 
 
  4466              	.LASF277:
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4490      6700
  4491              	.LASF82:
  4492 09d7 54584352 		.ascii	"TXCRCR\000"
-ARM GAS  /tmp/ccK25jTV.s 			page 91
+ARM GAS  /tmp/ccv2z1Kw.s 			page 91
 
 
  4492      435200
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4522      6500
  4523              	.LASF4:
  4524 0a5c 73686F72 		.ascii	"short int\000"
-ARM GAS  /tmp/ccK25jTV.s 			page 92
+ARM GAS  /tmp/ccv2z1Kw.s 			page 92
 
 
  4524      7420696E 
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4552 0ae9 64796E5F 		.ascii	"dyn_element_t\000"
  4552      656C656D 
  4552      656E745F 
-ARM GAS  /tmp/ccK25jTV.s 			page 93
+ARM GAS  /tmp/ccv2z1Kw.s 			page 93
 
 
  4552      7400
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4574 0c22 75696E74 		.ascii	"uint32_t\000"
  4574      33325F74 
  4574      00
-ARM GAS  /tmp/ccK25jTV.s 			page 94
+ARM GAS  /tmp/ccv2z1Kw.s 			page 94
 
 
  4575              	.LASF84:
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4600      75657565 
  4600      5F7400
  4601              	.LASF157:
-ARM GAS  /tmp/ccK25jTV.s 			page 95
+ARM GAS  /tmp/ccv2z1Kw.s 			page 95
 
 
  4602 0cc5 67756172 		.ascii	"guarded_memory_pool_t\000"
@@ -5697,8 +5697,8 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4630      736C6F77 
  4630      00
  4631              		.text
- 4632              		.section	.gnu.lto_.profile.3a83f9721b1ffc62,"e",%progbits
-ARM GAS  /tmp/ccK25jTV.s 			page 96
+ 4632              		.section	.gnu.lto_.profile.c542f4f0291ca59b,"e",%progbits
+ARM GAS  /tmp/ccv2z1Kw.s 			page 96
 
 
  4633 0000 789CE360 		.ascii	"x\234\343``\004B \000\000\000]\000\013"
@@ -5706,7 +5706,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4633      0000005D 
  4633      000B
  4634              		.text
- 4635              		.section	.gnu.lto_.icf.3a83f9721b1ffc62,"e",%progbits
+ 4635              		.section	.gnu.lto_.icf.c542f4f0291ca59b,"e",%progbits
  4636 0000 789CE360 		.ascii	"x\234\343``d\010`@\000^\206\317W\216\235bc\374\373i"
  4636      60640860 
  4636      40005E86 
@@ -5732,7 +5732,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4640      152E0600 
  4640      8F242949 
  4641              		.text
- 4642              		.section	.gnu.lto_.jmpfuncs.3a83f9721b1ffc62,"e",%progbits
+ 4642              		.section	.gnu.lto_.jmpfuncs.c542f4f0291ca59b,"e",%progbits
  4643 0000 789CB554 		.ascii	"x\234\265TKk\023Q\024>g\356\315t\322\244\011t%\004$"
  4643      4B6B1351 
  4643      143E67EE 
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4647      DF797CDF 
  4647      B9E75E0B 
  4647      100A
-ARM GAS  /tmp/ccK25jTV.s 			page 97
+ARM GAS  /tmp/ccv2z1Kw.s 			page 97
 
 
  4648 0060 26C06E50 		.ascii	"&\300nPO\000\0201\353\0100\214a\201\257\317}[m/\010"
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4659      459E7A77 
  4659      9F2EDF82 
  4659      C91973F9 
-ARM GAS  /tmp/ccK25jTV.s 			page 98
+ARM GAS  /tmp/ccv2z1Kw.s 			page 98
 
 
  4659      C98B
@@ -5878,7 +5878,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4671 020b A03CF304 		.ascii	"\240<\363\004\372\241fA\317\365\202\026\225\240\027"
  4671      FAA16641 
  4671      CFF58216 
-ARM GAS  /tmp/ccK25jTV.s 			page 99
+ARM GAS  /tmp/ccv2z1Kw.s 			page 99
 
 
  4671      95A017
@@ -5904,7 +5904,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4676 0266 84DF26AF 		.ascii	"\204\337&\257\343o"
  4676      E36F
  4677              		.text
- 4678              		.section	.gnu.lto_.inline.3a83f9721b1ffc62,"e",%progbits
+ 4678              		.section	.gnu.lto_.inline.c542f4f0291ca59b,"e",%progbits
  4679 0000 789CE360 		.ascii	"x\234\343``d\250fd\200\003V\006\006\366\006 `NgddP\000"
  4679      6064A866 
  4679      64800356 
@@ -5938,7 +5938,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4685 007a 1F287A02 		.ascii	"\037(z\002a\033\016G\262\360B\354\000All\240\177\015"
  4685      611B0E47 
  4685      B2F042EC 
-ARM GAS  /tmp/ccK25jTV.s 			page 100
+ARM GAS  /tmp/ccv2z1Kw.s 			page 100
 
 
  4685      00416C6C 
@@ -5963,7 +5963,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4689      006F243D 
  4689      D7
  4690              		.text
- 4691              		.section	.gnu.lto_.pureconst.3a83f9721b1ffc62,"e",%progbits
+ 4691              		.section	.gnu.lto_.pureconst.c542f4f0291ca59b,"e",%progbits
  4692 0000 789CE360 		.ascii	"x\234\343``d\020````e\230\301\3028\223\205i\007\013"
  4692      60641060 
  4692      60606065 
@@ -5973,7 +5973,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4693      592C001C 
  4693      1E035A
  4694              		.text
- 4695              		.section	.gnu.lto_job_slow.3a83f9721b1ffc62,"e",%progbits
+ 4695              		.section	.gnu.lto_job_slow.c542f4f0291ca59b,"e",%progbits
  4696 0000 789C7550 		.ascii	"x\234uP;K\003A\020\236o'\217\363\325\013A\020\024D\220"
  4696      3B4B0341 
  4696      109E6F27 
@@ -5998,7 +5998,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4700      30113589 
  4700      83094A6B 
  4700      3D104C1A 
-ARM GAS  /tmp/ccK25jTV.s 			page 101
+ARM GAS  /tmp/ccv2z1Kw.s 			page 101
 
 
  4700      0AF0
@@ -6058,7 +6058,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4711      A7320AAC 
  4711      4475
  4712 012f EAAA84BA 		.ascii	"\352\252\204\272\312\275\274{\237U\203\012\341\014!"
-ARM GAS  /tmp/ccK25jTV.s 			page 102
+ARM GAS  /tmp/ccv2z1Kw.s 			page 102
 
 
  4712      CABDBC7B 
@@ -6085,7 +6085,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4716      776F177D 
  4717 0186 5F54A088 		.ascii	"_T\240\210"
  4718              		.text
- 4719              		.section	.gnu.lto_chJobDispatch.3a83f9721b1ffc62,"e",%progbits
+ 4719              		.section	.gnu.lto_chJobDispatch.c542f4f0291ca59b,"e",%progbits
  4720 0000 789C8554 		.ascii	"x\234\205T[lTU\024=\353\356{\347\321\016/\025\177\306"
  4720      5B6C5455 
  4720      143DEBEE 
@@ -6118,7 +6118,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4726      F98147C1 
  4726      D25ABFE8 
  4726      8DF92C8B 
-ARM GAS  /tmp/ccK25jTV.s 			page 103
+ARM GAS  /tmp/ccv2z1Kw.s 			page 103
 
 
  4727 007f 382AB375 		.ascii	"8*\263u\211\343\376\006\310\262;~8\361\202\314\\J\275"
@@ -6178,7 +6178,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4738      9EC7C659 
  4738      94238D72 
  4738      5128
-ARM GAS  /tmp/ccK25jTV.s 			page 104
+ARM GAS  /tmp/ccv2z1Kw.s 			page 104
 
 
  4739 0159 BABAE101 		.ascii	"\272\272\341\001\257\216\336:>\036\240\327\014r\317"
@@ -6238,7 +6238,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4750      139F6627 
  4750      FDB2
  4751 0231 D597A400 		.ascii	"\325\227\244\000\323\341]\337\310.\227\323\275\304d"
-ARM GAS  /tmp/ccK25jTV.s 			page 105
+ARM GAS  /tmp/ccv2z1Kw.s 			page 105
 
 
  4751      D3E15DDF 
@@ -6298,7 +6298,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4762      BD216309 
  4762      99
  4763 0303 2B4CE60E 		.ascii	"+L\346\016\352M\177\370\224\211\037\276F\217\230j_<"
-ARM GAS  /tmp/ccK25jTV.s 			page 106
+ARM GAS  /tmp/ccv2z1Kw.s 			page 106
 
 
  4763      EA4D7FF8 
@@ -6358,7 +6358,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4774      4DA8
  4775 03d0 2EF4DC9B 		.ascii	".\364\334\233\341\025\253kV<\253\354\310;\321\267\211"
  4775      E115AB6B 
-ARM GAS  /tmp/ccK25jTV.s 			page 107
+ARM GAS  /tmp/ccv2z1Kw.s 			page 107
 
 
  4775      563CABEC 
@@ -6368,7 +6368,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4776      3F735BFB 
  4776      17
  4777              		.text
- 4778              		.section	.gnu.lto_Thread1.3a83f9721b1ffc62,"e",%progbits
+ 4778              		.section	.gnu.lto_Thread1.c542f4f0291ca59b,"e",%progbits
  4779 0000 789C7551 		.ascii	"x\234uQ\317KTQ\024>\337\273\367\315\274d\332\264\012"
  4779      CF4B5451 
  4779      143EDFBB 
@@ -6418,7 +6418,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4788      976861DE 
  4788      5AAAB013 
  4788      1A15
-ARM GAS  /tmp/ccK25jTV.s 			page 108
+ARM GAS  /tmp/ccv2z1Kw.s 			page 108
 
 
  4789 00b6 9E002487 		.ascii	"\236\000$\207c\237_|j\320\241\2050\207\277\324\310\033"
@@ -6478,7 +6478,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4800 017f 941928EA 		.ascii	"\224\031(\352-8\371\345[y\031S(\302\023A\274\347F,\350"
  4800      2D38F9E5 
  4800      5B791953 
-ARM GAS  /tmp/ccK25jTV.s 			page 109
+ARM GAS  /tmp/ccv2z1Kw.s 			page 109
 
 
  4800      28C21341 
@@ -6521,7 +6521,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4808      11F7
  4809 0220 ED07     		.ascii	"\355\007"
  4810              		.text
- 4811              		.section	.gnu.lto_chJobObjectInit.3a83f9721b1ffc62,"e",%progbits
+ 4811              		.section	.gnu.lto_chJobObjectInit.c542f4f0291ca59b,"e",%progbits
  4812 0000 789C8554 		.ascii	"x\234\205TML\\U\024\276\337;of^\241\2006\321\015\232"
  4812      4D4C5C55 
  4812      14BEDF3B 
@@ -6538,7 +6538,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4814      E4117050 
  4814      0AFED4
  4815 003f A0B6B5C0 		.ascii	"\240\266\265\300+\332*\264(b\241\202\3306\264\0225\015"
-ARM GAS  /tmp/ccK25jTV.s 			page 110
+ARM GAS  /tmp/ccv2z1Kw.s 			page 110
 
 
  4815      2BDA2AB4 
@@ -6598,7 +6598,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4826      472C7ADE 
  4827 0112 39B3B448 		.ascii	"9\263\264HY\202\365\341G\206\014A\000\347\363\010\002"
  4827      5982F5E1 
-ARM GAS  /tmp/ccK25jTV.s 			page 111
+ARM GAS  /tmp/ccv2z1Kw.s 			page 111
 
 
  4827      47860C41 
@@ -6658,7 +6658,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4838      F025
  4839 01e1 2AB9E269 		.ascii	"*\271\342i\264\203%$\313$+\237{\353\307WG,\212\231|"
  4839      B4832524 
-ARM GAS  /tmp/ccK25jTV.s 			page 112
+ARM GAS  /tmp/ccv2z1Kw.s 			page 112
 
 
  4839      CB242B9F 
@@ -6718,7 +6718,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4850      3DC56F
  4851 02bb ACD0E28A 		.ascii	"\254\320\342\212L\213{%\262\356}\277\013ac\001\245."
  4851      4C8B7B25 
-ARM GAS  /tmp/ccK25jTV.s 			page 113
+ARM GAS  /tmp/ccv2z1Kw.s 			page 113
 
 
  4851      B2EE7DBF 
@@ -6778,10 +6778,10 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4863 0396 0B46B8D5 		.ascii	"\013F\270\325\240"
  4863      A0
  4864              		.text
-ARM GAS  /tmp/ccK25jTV.s 			page 114
+ARM GAS  /tmp/ccv2z1Kw.s 			page 114
 
 
- 4865              		.section	.gnu.lto_oslib_test_004_001_execute.3a83f9721b1ffc62,"e",%progbits
+ 4865              		.section	.gnu.lto_oslib_test_004_001_execute.c542f4f0291ca59b,"e",%progbits
  4866 0000 789CAD5A 		.ascii	"x\234\255ZiTTG\026~\267\252\027@\304\211&\321\021c0"
  4866      69545447 
  4866      167EB7AA 
@@ -6838,7 +6838,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4876      69B8
  4877 00cb B539D3FB 		.ascii	"\2659\323\373(6\017W\001l\370\265\340\360\216C1\364"
  4877      28360F57 
-ARM GAS  /tmp/ccK25jTV.s 			page 115
+ARM GAS  /tmp/ccv2z1Kw.s 			page 115
 
 
  4877      016CF8B5 
@@ -6898,7 +6898,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4888      BD6E7E02 
  4888      F13684F2 
  4888      7A
-ARM GAS  /tmp/ccK25jTV.s 			page 116
+ARM GAS  /tmp/ccv2z1Kw.s 			page 116
 
 
  4889 01a7 465BDD3B 		.ascii	"F[\335;\204\356\325\243{\344\2306\241\300\2626\237\262"
@@ -6958,7 +6958,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4900      2817DFBC 
  4900      0E67C8A8 
  4901 0276 53145B1E 		.ascii	"S\024[\036\030\333\263\030[\021C8'bk\015\335\301\015"
-ARM GAS  /tmp/ccK25jTV.s 			page 117
+ARM GAS  /tmp/ccv2z1Kw.s 			page 117
 
 
  4901      18DBB318 
@@ -7018,7 +7018,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4912      805FA09C 
  4912      3061EF92 
  4912      C623
-ARM GAS  /tmp/ccK25jTV.s 			page 118
+ARM GAS  /tmp/ccv2z1Kw.s 			page 118
 
 
  4913 0359 9C443800 		.ascii	"\234D8\000\340\012\256\220\252uyv\241\3536d'\010\"H"
@@ -7078,7 +7078,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4924 042f 5DB06573 		.ascii	"]\260es\324\260\003\340\323\2131Co\220\336C{/e\013c"
  4924      D4B003E0 
  4924      D38B3143 
-ARM GAS  /tmp/ccK25jTV.s 			page 119
+ARM GAS  /tmp/ccv2z1Kw.s 			page 119
 
 
  4924      6F90DE43 
@@ -7138,7 +7138,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4936      372ACEC7 
  4936      A80D1B80 
  4937 051a 0E2DF359 		.ascii	"\016-\363Yr1\227\003U\203\005,YXt\263\266\"\216\314"
-ARM GAS  /tmp/ccK25jTV.s 			page 120
+ARM GAS  /tmp/ccv2z1Kw.s 			page 120
 
 
  4937      72319703 
@@ -7198,7 +7198,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4948      865E2AFC 
  4948      3CBFEAC6 
  4948      A5B8618D 
-ARM GAS  /tmp/ccK25jTV.s 			page 121
+ARM GAS  /tmp/ccv2z1Kw.s 			page 121
 
 
  4949 0602 D686AEDF 		.ascii	"\326\206\256\3377/\337l\350\315n\321\320\313\0305t>"
@@ -7258,7 +7258,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4960      8DFF4234 
  4960      7EB9D1F8 
  4960      E10A
-ARM GAS  /tmp/ccK25jTV.s 			page 122
+ARM GAS  /tmp/ccv2z1Kw.s 			page 122
 
 
  4961 06d1 62A82C08 		.ascii	"b\250,\010\321\370k\251\361Y`\343\233\033\337\226\033"
@@ -7318,7 +7318,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4972 079d 0F9D47B7 		.ascii	"\017\235G\267\023\036\220`\330a\340Aw\341\213\303\357"
  4972      131E9060 
  4972      D861E041 
-ARM GAS  /tmp/ccK25jTV.s 			page 123
+ARM GAS  /tmp/ccv2z1Kw.s 			page 123
 
 
  4972      77E18BC3 
@@ -7378,7 +7378,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4983      C9B37350 
  4983      9185
  4984 087e BC9D8F6B 		.ascii	"\274\235\217k\330\031\360v\036\355\177e\335\307\304"
-ARM GAS  /tmp/ccK25jTV.s 			page 124
+ARM GAS  /tmp/ccv2z1Kw.s 			page 124
 
 
  4984      D819F076 
@@ -7438,7 +7438,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  4995      5872FF36 
  4995      642588A5 
  4996 0956 8FF6F018 		.ascii	"\217\366\360\030\341,\034\3575n4F\302\215.\\\036\003"
-ARM GAS  /tmp/ccK25jTV.s 			page 125
+ARM GAS  /tmp/ccv2z1Kw.s 			page 125
 
 
  4996      E12C1CEF 
@@ -7498,7 +7498,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5007      9E808004 
  5007      C385
  5008 0a2f C0C176D1 		.ascii	"\300\301v\3212\330\232\375\203\255\231\202\230\032n"
-ARM GAS  /tmp/ccK25jTV.s 			page 126
+ARM GAS  /tmp/ccv2z1Kw.s 			page 126
 
 
  5008      32D89AFD 
@@ -7558,7 +7558,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5019      24CCBE87 
  5019      F5217476 
  5019      0ACC4E09 
-ARM GAS  /tmp/ccK25jTV.s 			page 127
+ARM GAS  /tmp/ccv2z1Kw.s 			page 127
 
 
  5020 0b0c 693452B8 		.ascii	"i4R\270g\202\364\035\003\233\203\010l\240*\231O\021"
@@ -7618,7 +7618,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5031 0bd4 2E87C4A2 		.ascii	".\207\304\2424\205t\013\271\037\351\2106\220\016i/O"
  5031      3485740B 
  5031      B91FE988 
-ARM GAS  /tmp/ccK25jTV.s 			page 128
+ARM GAS  /tmp/ccv2z1Kw.s 			page 128
 
 
  5031      36900E69 
@@ -7678,7 +7678,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5042      6B626292 
  5043 0cb2 93E14ACF 		.ascii	"\223\341J\317H\232\231\376\331\264\311I\3513\347\314"
  5043      489A99FE 
-ARM GAS  /tmp/ccK25jTV.s 			page 129
+ARM GAS  /tmp/ccv2z1Kw.s 			page 129
 
 
  5043      D9B4C949 
@@ -7726,7 +7726,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5052      A46BFF03 
  5052      B58321A6 
  5053              		.text
- 5054              		.section	.gnu.lto_oslib_test_sequence_004.3a83f9721b1ffc62,"e",%progbits
+ 5054              		.section	.gnu.lto_oslib_test_sequence_004.c542f4f0291ca59b,"e",%progbits
  5055 0000 789CE360 		.ascii	"x\234\343``d\310g``\360d\200\200\351\314\214\273\277"
  5055      6064C867 
  5055      6060F064 
@@ -7738,7 +7738,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5056      F74F56E6 
  5056      F9
  5057 0024 CC0C8B99 		.ascii	"\314\014\213\231!r-m\367y\024m\3477\314P\230\317\314"
-ARM GAS  /tmp/ccK25jTV.s 			page 130
+ARM GAS  /tmp/ccv2z1Kw.s 			page 130
 
 
  5057      21722D6D 
@@ -7775,7 +7775,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5064 00a9 000DCA3F 		.ascii	"\000\015\312?\250"
  5064      A8
  5065              		.text
- 5066              		.section	.gnu.lto_oslib_test_sequence_004_array.3a83f9721b1ffc62,"e",%progbits
+ 5066              		.section	.gnu.lto_oslib_test_sequence_004_array.c542f4f0291ca59b,"e",%progbits
  5067 0000 789CE360 		.ascii	"x\234\343``d\010d``\260a\200\200\351\314\214}\315\357"
  5067      60640864 
  5067      6060B061 
@@ -7798,7 +7798,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5070      A134
  5071 0048 E36EC616 		.ascii	"\343n\306\026FF#i\306]\214\322\014\214{\030-\031\254"
  5071      46462369 
-ARM GAS  /tmp/ccK25jTV.s 			page 131
+ARM GAS  /tmp/ccv2z1Kw.s 			page 131
 
 
  5071      C65D8CD2 
@@ -7816,7 +7816,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5073      3030D14B 
  5074 0088 E12FAE   		.ascii	"\341/\256"
  5075              		.text
- 5076              		.section	.gnu.lto_oslib_test_004_001.3a83f9721b1ffc62,"e",%progbits
+ 5076              		.section	.gnu.lto_oslib_test_004_001.c542f4f0291ca59b,"e",%progbits
  5077 0000 789CE360 		.ascii	"x\234\343``d\350a``\360e\200\200\351\314\214sW\234\371"
  5077      6064E861 
  5077      6060F065 
@@ -7858,7 +7858,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5085      824A528B 
  5085      4BF4F38B 
  5085      733293
-ARM GAS  /tmp/ccK25jTV.s 			page 132
+ARM GAS  /tmp/ccv2z1Kw.s 			page 132
 
 
  5086 0098 F48BF34B 		.ascii	"\364\213\363K\213\222S\221D\342A\314\370\342\324\302"
@@ -7875,7 +7875,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5088      0035C2
  5089 00c6 48FB     		.ascii	"H\373"
  5090              		.text
- 5091              		.section	.gnu.lto_.symbol_nodes.3a83f9721b1ffc62,"e",%progbits
+ 5091              		.section	.gnu.lto_.symbol_nodes.c542f4f0291ca59b,"e",%progbits
  5092 0000 789C7592 		.ascii	"x\234u\222\271N\0031\020\206g~\2577\027$\341\012G\001"
  5092      B94E0331 
  5092      1086677E 
@@ -7918,7 +7918,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5099      FC
  5100 008f B8E41A6C 		.ascii	"\270\344\032l\203\007\244V\312Qr\217\264\205;db\305"
  5100      8307A456 
-ARM GAS  /tmp/ccK25jTV.s 			page 133
+ARM GAS  /tmp/ccv2z1Kw.s 			page 133
 
 
  5100      CA51728F 
@@ -7968,7 +7968,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5109      67FA0128 
  5109      6C120A
  5110              		.text
- 5111              		.section	.gnu.lto_.refs.3a83f9721b1ffc62,"e",%progbits
+ 5111              		.section	.gnu.lto_.refs.c542f4f0291ca59b,"e",%progbits
  5112 0000 789C0DC6 		.ascii	"x\234\015\306\241\025\302@\024\005\321\367\346\237]"
  5112      A115C240 
  5112      1405D1F7 
@@ -7978,7 +7978,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5113      3A164125 
  5113      14446DB4 
  5113      80A202
-ARM GAS  /tmp/ccK25jTV.s 			page 134
+ARM GAS  /tmp/ccv2z1Kw.s 			page 134
 
 
  5114 0022 3C8A2FEE 		.ascii	"<\212/\356\231\031d=$\031\242\254\3055\262\234\012C"
@@ -7998,7 +7998,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5117 0056 78A1E80F 		.ascii	"x\241\350\017$\247\010\000"
  5117      24A70800 
  5118              		.text
- 5119              		.section	.gnu.lto_.decls.3a83f9721b1ffc62,"e",%progbits
+ 5119              		.section	.gnu.lto_.decls.c542f4f0291ca59b,"e",%progbits
  5120 0000 789CAD7C 		.ascii	"x\234\255|\011X\\\327\225f\335w\253\200*6Yrl\305vg\334"
  5120      09585CD7 
  5120      9566DD77 
@@ -8038,7 +8038,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5127      28147780 
  5127      76001D02 
  5127      7A07
-ARM GAS  /tmp/ccK25jTV.s 			page 135
+ARM GAS  /tmp/ccv2z1Kw.s 			page 135
 
 
  5128 0095 E82F9042 		.ascii	"\350/\220B1\011\327\217\340\372\012\320>\270\377)\\"
@@ -8098,7 +8098,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5140 015a F702EDE1 		.ascii	"\367\002\355\341\266$:\375\236\333\353\017ft\312\204"
  5140      B6243AFD 
  5140      9EDBEB0F 
-ARM GAS  /tmp/ccK25jTV.s 			page 136
+ARM GAS  /tmp/ccv2z1Kw.s 			page 136
 
 
  5140      6674CA84 
@@ -8158,7 +8158,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5152      F4E740F1 
  5152      C49E4067 
  5152      05663BD1 
-ARM GAS  /tmp/ccK25jTV.s 			page 137
+ARM GAS  /tmp/ccv2z1Kw.s 			page 137
 
 
  5152      27BE
@@ -8218,7 +8218,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5164 02f7 6A03C5E4 		.ascii	"j\003\305\344\256\016\177\304\212;\210\324\255\261s"
  5164      AE0E7FC4 
  5164      8A3B88D4 
-ARM GAS  /tmp/ccK25jTV.s 			page 138
+ARM GAS  /tmp/ccv2z1Kw.s 			page 138
 
 
  5164      ADB173
@@ -8278,7 +8278,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5176      A8050EE8 
  5176      2E48BCC7 
  5176      24A26EE4 
-ARM GAS  /tmp/ccK25jTV.s 			page 139
+ARM GAS  /tmp/ccv2z1Kw.s 			page 139
 
 
  5176      84BA90
@@ -8338,7 +8338,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5188 04af 1B108D06 		.ascii	"\033\020\215\006\300\"\217\015\026\351\014\033\210\260"
  5188      C0228F0D 
  5188      16E90C1B 
-ARM GAS  /tmp/ccK25jTV.s 			page 140
+ARM GAS  /tmp/ccv2z1Kw.s 			page 140
 
 
  5188      88B0
@@ -8398,7 +8398,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5199      A8
  5200 0592 B908B143 		.ascii	"\271\010\261C\373DRF\377\311:{\334\3124=\025\024\265"
  5200      FB445246 
-ARM GAS  /tmp/ccK25jTV.s 			page 141
+ARM GAS  /tmp/ccv2z1Kw.s 			page 141
 
 
  5200      FFC93A7B 
@@ -8458,7 +8458,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5211      276073EA 
  5212 0672 D1F0CB7D 		.ascii	"\321\360\313}\2168\203\261X\233\331Xwd~]O\312\017\313"
  5212      8E3883B1 
-ARM GAS  /tmp/ccK25jTV.s 			page 142
+ARM GAS  /tmp/ccv2z1Kw.s 			page 142
 
 
  5212      589BD958 
@@ -8518,7 +8518,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5223      CAA4B134 
  5223      C927
  5224 0750 870441EA 		.ascii	"\207\004A\352\275u\333\202i(\004\353\303\367\222~\243"
-ARM GAS  /tmp/ccK25jTV.s 			page 143
+ARM GAS  /tmp/ccv2z1Kw.s 			page 143
 
 
  5224      BD75DB82 
@@ -8578,7 +8578,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5235      499E7F92 
  5235      0010CC81 
  5236 0826 C661AC34 		.ascii	"\306a\2544\0164\3642\242\342\312\222\012W\260.\227_"
-ARM GAS  /tmp/ccK25jTV.s 			page 144
+ARM GAS  /tmp/ccv2z1Kw.s 			page 144
 
 
  5236      0E34F432 
@@ -8638,7 +8638,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5247      7621CC51 
  5247      6A9E2299 
  5248 08ff 705EA5C3 		.ascii	"p^\245\303\231\360x\376SI\356%s\203\021yM\320\220\216"
-ARM GAS  /tmp/ccK25jTV.s 			page 145
+ARM GAS  /tmp/ccv2z1Kw.s 			page 145
 
 
  5248      99F078FE 
@@ -8698,7 +8698,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5259      4D514F84 
  5259      D53161F5 
  5260 09dd FDA47624 		.ascii	"\375\244v$\035t\250\226\260o`\203\336@\007\375Nt\317"
-ARM GAS  /tmp/ccK25jTV.s 			page 146
+ARM GAS  /tmp/ccv2z1Kw.s 			page 146
 
 
  5260      1D74A896 
@@ -8758,7 +8758,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5271      61DC6951 
  5271      C29A3D47 
  5271      FCB9C884 
-ARM GAS  /tmp/ccK25jTV.s 			page 147
+ARM GAS  /tmp/ccv2z1Kw.s 			page 147
 
 
  5271      35605A19 
@@ -8818,7 +8818,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5282      A4B3
  5283 0b87 2259B21A 		.ascii	"\"Y\262\032\247\305^2-\366\210\323\342l\376\330\234"
  5283      A7C55E32 
-ARM GAS  /tmp/ccK25jTV.s 			page 148
+ARM GAS  /tmp/ccv2z1Kw.s 			page 148
 
 
  5283      2DF688D3 
@@ -8878,7 +8878,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5294      10327A3F 
  5294      23203426 
  5294      113C2617 
-ARM GAS  /tmp/ccK25jTV.s 			page 149
+ARM GAS  /tmp/ccv2z1Kw.s 			page 149
 
 
  5294      FCEC3D05 
@@ -8938,7 +8938,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5306      4F3637AF 
  5306      CAC2634D 
  5306      0C8FB887 
-ARM GAS  /tmp/ccK25jTV.s 			page 150
+ARM GAS  /tmp/ccv2z1Kw.s 			page 150
 
 
  5306      AB6B
@@ -8998,7 +8998,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5317      B2C7
  5318 0e0a 4565DBCE 		.ascii	"Ee\333\316\216\372a\256\354\350\205\035\311\001I\357"
  5318      8EFA61AE 
-ARM GAS  /tmp/ccK25jTV.s 			page 151
+ARM GAS  /tmp/ccv2z1Kw.s 			page 151
 
 
  5318      ECE8851D 
@@ -9058,7 +9058,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5329      F10055E8 
  5329      3C33C7F4 
  5330 0eef 58708C6C 		.ascii	"Xp\214l\222$\033QF{$\022{\\\024\355\021\371\250\247"
-ARM GAS  /tmp/ccK25jTV.s 			page 152
+ARM GAS  /tmp/ccv2z1Kw.s 			page 152
 
 
  5330      92241B51 
@@ -9118,7 +9118,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5341      72255AE5 
  5341      8A5A
  5342 0fc5 E553ADAA 		.ascii	"\345S\255\252\247\227\356)q'\323\312B6/\224e\351\332"
-ARM GAS  /tmp/ccK25jTV.s 			page 153
+ARM GAS  /tmp/ccv2z1Kw.s 			page 153
 
 
  5342      A797EE29 
@@ -9178,7 +9178,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5354 1097 F5F588F2 		.ascii	"\365\365\210\362\2504\341QIx\244\002\217*\312#\267,"
  5354      A834E151 
  5354      4978A402 
-ARM GAS  /tmp/ccK25jTV.s 			page 154
+ARM GAS  /tmp/ccv2z1Kw.s 			page 154
 
 
  5354      8F2ACA23 
@@ -9238,7 +9238,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5365      273C2266 
  5365      857F97
  5366 1172 794EDD3B 		.ascii	"yN\335;84\023\363]\022\362A\373J\370\350<?\245\361\214"
-ARM GAS  /tmp/ccK25jTV.s 			page 155
+ARM GAS  /tmp/ccv2z1Kw.s 			page 155
 
 
  5366      383413F3 
@@ -9298,7 +9298,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5378      E57AC5B4 
  5378      353EC15E 
  5378      C3
-ARM GAS  /tmp/ccK25jTV.s 			page 156
+ARM GAS  /tmp/ccv2z1Kw.s 			page 156
 
 
  5379 124b 46CE16A6 		.ascii	"F\316\026\246jv\231\027\367\330T\034\264\310\232|\274"
@@ -9358,7 +9358,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5390      00FD15AF 
  5390      1ABE014C 
  5390      7F13B8
-ARM GAS  /tmp/ccK25jTV.s 			page 157
+ARM GAS  /tmp/ccv2z1Kw.s 			page 157
 
 
  5391 1318 AD99EBF1 		.ascii	"\255\231\353\361\020\326vC\337\204n\254\346\254\301"
@@ -9418,7 +9418,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5402      31E13F54 
  5402      DC8D7002 
  5402      6B74A335 
-ARM GAS  /tmp/ccK25jTV.s 			page 158
+ARM GAS  /tmp/ccv2z1Kw.s 			page 158
 
 
  5403 13f7 1627B2C2 		.ascii	"\026'\262\302\320\213\344\021k\234\316\012\317\343n"
@@ -9478,7 +9478,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5414      B2F60323 
  5414      9C9C2D93 
  5415 14cc B745E1DA 		.ascii	"\267E\341\332\177aQx\027\272\331aAs\011\357\332_1\370"
-ARM GAS  /tmp/ccK25jTV.s 			page 159
+ARM GAS  /tmp/ccv2z1Kw.s 			page 159
 
 
  5415      7F615178 
@@ -9538,7 +9538,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5426      95850308 
  5426      ED
  5427 15a5 FFFFCD05 		.ascii	"\377\377\315\005\022g\007\003\322\034q\240\035;;{+\264"
-ARM GAS  /tmp/ccK25jTV.s 			page 160
+ARM GAS  /tmp/ccv2z1Kw.s 			page 160
 
 
  5427      12670703 
@@ -9598,7 +9598,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5438      274A4493 
  5438      3ECF553D 
  5438      DC454B20 
-ARM GAS  /tmp/ccK25jTV.s 			page 161
+ARM GAS  /tmp/ccv2z1Kw.s 			page 161
 
 
  5438      E4AF419B 
@@ -9658,7 +9658,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5450      9E9D50E2 
  5450      0A66FFF5 
  5450      AAF02756 
-ARM GAS  /tmp/ccK25jTV.s 			page 162
+ARM GAS  /tmp/ccv2z1Kw.s 			page 162
 
 
  5450      168E
@@ -9718,7 +9718,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5462 1827 74853079 		.ascii	"t\2050y\204)\325I\300&J\335\306\333\224\252\375\202"
  5462      8429D549 
  5462      C0264ADD 
-ARM GAS  /tmp/ccK25jTV.s 			page 163
+ARM GAS  /tmp/ccv2z1Kw.s 			page 163
 
 
  5462      C6DB94AA 
@@ -9778,7 +9778,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5473      69826C3C 
  5473      C70F
  5474 1900 39826CD4 		.ascii	"9\202l\324o\236\257\350\011s\371\307\333\035\361Mf\302"
-ARM GAS  /tmp/ccK25jTV.s 			page 164
+ARM GAS  /tmp/ccv2z1Kw.s 			page 164
 
 
  5474      6F9EAFE8 
@@ -9838,7 +9838,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5485      14458F4F 
  5485      68E4036F 
  5486 19da 630CF0A6 		.ascii	"c\014\360\246\026zB\"\340\374r\256\354\354\303\262L"
-ARM GAS  /tmp/ccK25jTV.s 			page 165
+ARM GAS  /tmp/ccv2z1Kw.s 			page 165
 
 
  5486      167A4222 
@@ -9898,7 +9898,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5497      D3378061 
  5497      03287662 
  5498 1ab7 BA4B86ED 		.ascii	"\272K\206\355\225a\003\0316\220b\023Nuw\311\002<V\246"
-ARM GAS  /tmp/ccK25jTV.s 			page 166
+ARM GAS  /tmp/ccv2z1Kw.s 			page 166
 
 
  5498      95610319 
@@ -9958,7 +9958,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5509      53FA1355 
  5509      08DFA10F 
  5509      AD2F7615 
-ARM GAS  /tmp/ccK25jTV.s 			page 167
+ARM GAS  /tmp/ccv2z1Kw.s 			page 167
 
 
  5509      AED9
@@ -10018,7 +10018,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5521      C32653EC 
  5521      C99107CF 
  5521      649B1EC5 
-ARM GAS  /tmp/ccK25jTV.s 			page 168
+ARM GAS  /tmp/ccv2z1Kw.s 			page 168
 
 
  5521      B2
@@ -10078,7 +10078,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5533      20FD925C 
  5533      BADF1E5A 
  5533      4D6681FE 
-ARM GAS  /tmp/ccK25jTV.s 			page 169
+ARM GAS  /tmp/ccv2z1Kw.s 			page 169
 
 
  5533      73F96ABC 
@@ -10138,7 +10138,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5545      D7802946 
  5545      2ECA83DE 
  5546 1e18 5A2DF6D1 		.ascii	"Z-\366\321\272\253\276\364\325\372j\225\036\332c\272"
-ARM GAS  /tmp/ccK25jTV.s 			page 170
+ARM GAS  /tmp/ccv2z1Kw.s 			page 170
 
 
  5546      BAABBEF4 
@@ -10198,7 +10198,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5558 1ee5 995A6F1B 		.ascii	"\231Zo\033/o\317\257\334\340\306\316]\353~H\253;\350"
  5558      2F6FCFAF 
  5558      DCE0C6CE 
-ARM GAS  /tmp/ccK25jTV.s 			page 171
+ARM GAS  /tmp/ccv2z1Kw.s 			page 171
 
 
  5558      5DEB7E48 
@@ -10258,7 +10258,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5570      BEBB42E3 
  5570      EAE9ADD3 
  5570      1E7BDF
-ARM GAS  /tmp/ccK25jTV.s 			page 172
+ARM GAS  /tmp/ccv2z1Kw.s 			page 172
 
 
  5571 1fbe FD2385F5 		.ascii	"\375#\205\365\357\350P\177\370\037\377\237}TaC\204\373"
@@ -10318,7 +10318,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5583      8E78BAF2 
  5583      27B6B4CD 
  5584 2092 2FA0B73A 		.ascii	"/\240\267:\355.\036\327\322\221\026>\377Rs\324\345\337"
-ARM GAS  /tmp/ccK25jTV.s 			page 173
+ARM GAS  /tmp/ccv2z1Kw.s 			page 173
 
 
  5584      ED2E1ED7 
@@ -10378,7 +10378,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5596 2166 E4159587 		.ascii	"\344\025\225\207\366\250\326\033\273\352\216\011>^\220"
  5596      F6A8D61B 
  5596      BBEA8E09 
-ARM GAS  /tmp/ccK25jTV.s 			page 174
+ARM GAS  /tmp/ccv2z1Kw.s 			page 174
 
 
  5596      3E5E90
@@ -10438,7 +10438,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5608      9CC17BE0 
  5608      D680D0
  5609 2248 FD998576 		.ascii	"\375\231\205v\316.$\026mtZ\010\035\317\243\036*P\323"
-ARM GAS  /tmp/ccK25jTV.s 			page 175
+ARM GAS  /tmp/ccv2z1Kw.s 			page 175
 
 
  5609      CE2E2416 
@@ -10466,7 +10466,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5613      BF845688 
  5613      6E
  5614              		.text
- 5615              		.section	.gnu.lto_.symtab.3a83f9721b1ffc62,"e",%progbits
+ 5615              		.section	.gnu.lto_.symtab.c542f4f0291ca59b,"e",%progbits
  5616 0000 6F736C69 		.ascii	"oslib_test_sequence_004\000"
  5616      625F7465 
  5616      73745F73 
@@ -10498,7 +10498,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5632 0061 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
  5632      00000000 
  5633 0069 C8010000 		.ascii	"\310\001\000\000"
-ARM GAS  /tmp/ccK25jTV.s 			page 176
+ARM GAS  /tmp/ccv2z1Kw.s 			page 176
 
 
  5634 006d 636800   		.ascii	"ch\000"
@@ -10558,7 +10558,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5667 010a 00       		.ascii	"\000"
  5668 010b 00000000 		.ascii	"\000\000\000\000\000\000\000\000"
  5668      00000000 
-ARM GAS  /tmp/ccK25jTV.s 			page 177
+ARM GAS  /tmp/ccv2z1Kw.s 			page 177
 
 
  5669 0113 8C010000 		.ascii	"\214\001\000\000"
@@ -10618,7 +10618,7 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5700      61726465 
  5700      64506F6F 
  5700      6C416C6C 
-ARM GAS  /tmp/ccK25jTV.s 			page 178
+ARM GAS  /tmp/ccv2z1Kw.s 			page 178
 
 
  5700      6F635469 
@@ -10667,12 +10667,12 @@ ARM GAS  /tmp/ccK25jTV.s 			page 1
  5720              		.comm	__gnu_lto_v1,1,1
  5721              		.comm	__gnu_lto_slim,1,1
  5722              		.ident	"GCC: (15:9-2019-q4-0ubuntu1) 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599]"
-ARM GAS  /tmp/ccK25jTV.s 			page 179
+ARM GAS  /tmp/ccv2z1Kw.s 			page 179
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 oslib_test_sequence_004.c
-     /tmp/ccK25jTV.s:59     .gnu.debuglto_.debug_info:0000000000000000 oslib_test_sequence_004.c.5ae7f471
+     /tmp/ccv2z1Kw.s:59     .gnu.debuglto_.debug_info:0000000000000000 oslib_test_sequence_004.c.5ae7f471
                             *COM*:0000000000000001 __gnu_lto_v1
                             *COM*:0000000000000001 __gnu_lto_slim
 
