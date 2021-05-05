@@ -93,10 +93,8 @@ XNucleoIHM02A1::XNucleoIHM02A1(L6470_init_t *init_0, L6470_init_t *init_1, iolin
 
 
     /* Instantiating the components. */
-    l6470_0 = (L6470*) chCoreAlloc(sizeof(L6470));
-    l6470_1 = (L6470*) chCoreAlloc(sizeof(L6470));
-    *l6470_0 = L6470(flag_irq, busy_irq, standby_reset, ssel);
-    *l6470_1 = L6470(flag_irq, busy_irq, standby_reset, ssel);
+    l6470_0 = new  L6470(flag_irq, busy_irq, standby_reset, ssel);
+    l6470_1 = new L6470(flag_irq, busy_irq, standby_reset, ssel);
     components[0] = l6470_0;
     components[1] = l6470_1;
 

@@ -17,6 +17,7 @@
 #include "ch.h"
 #include "hal.h"
 #include "XNucleoIHM02A1.h"
+#include "memory.h"
 
 XNucleoIHM02A1 *x_nucleo_ihm02a1;
 L6470 **motors;
@@ -104,8 +105,7 @@ int main(void) {
 
 
   // LIB MOTEUR TEST
-  x_nucleo_ihm02a1 = (XNucleoIHM02A1*) (sizeof(XNucleoIHM02A1));
-  *x_nucleo_ihm02a1 = XNucleoIHM02A1(&L6470_init[0], &L6470_init[1], PAL_LINE(GPIOC, 1), PAL_LINE(GPIOC, 0), PAL_LINE(GPIOB, 5), PAL_LINE(GPIOA, 4));
+  x_nucleo_ihm02a1 = new XNucleoIHM02A1(&L6470_init[0], &L6470_init[1], PAL_LINE(GPIOC, 1), PAL_LINE(GPIOC, 0), PAL_LINE(GPIOB, 5), PAL_LINE(GPIOA, 4));
   motors = x_nucleo_ihm02a1->get_components();
   L6470_init[0].step_sel = StepperMotor::STEP_MODE_1_128;
   L6470_init[1].step_sel = StepperMotor::STEP_MODE_1_128;

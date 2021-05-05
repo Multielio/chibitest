@@ -83,7 +83,7 @@
 static const SPIConfig ls_spicfg = {
         false,
         NULL,
-        SPI_CR1_BR_1 | SPI_CR1_CPOL | SPI_CR1_CPHA |  SPI_CR1_BR_0 | SPI_CR1_SPE,
+        SPI_CR1_BR_1 | SPI_CR1_BR_0 | SPI_CR1_CPOL | SPI_CR1_CPHA |  SPI_CR1_BR_0 | SPI_CR1_SPE,
         SPI_CR2_SSOE 
 };
 
@@ -125,7 +125,7 @@ public:
      * @param standby_reset pin name of the STBY\RST pin of the component.
      * @param ssel          pin name of the SSEL pin of the SPI device to be used for communication.
      */
-    L6470(uint8_t flag_irq, uint8_t busy_irq, uint8_t standby_reset, uint8_t ssel) : StepperMotor(), flag_irq(flag_irq), busy_irq(busy_irq), standby_reset(standby_reset), ssel(ssel)
+    L6470(ioline_t flag_irq, ioline_t  busy_irq, ioline_t standby_reset, ioline_t ssel) : StepperMotor(), flag_irq(flag_irq), busy_irq(busy_irq), standby_reset(standby_reset), ssel(ssel)
     {
         /* ACTION 4 ----------------------------------------------------------*
          * Initialize here the component's member variables, one variable per *

@@ -97,7 +97,7 @@ build/obj/main.o: main.cpp ../../../os/rt/include/ch.h cfg/chconf.h \
  /usr/include/newlib/machine/_default_types.h \
  /usr/include/newlib/sys/lock.h /usr/include/newlib/sys/cdefs.h \
  /usr/include/newlib/sys/_locale.h /usr/include/newlib/strings.h \
- /usr/include/newlib/sys/string.h
+ /usr/include/newlib/sys/string.h lib/motor/include/memory.h
 
 ../../../os/rt/include/ch.h:
 
@@ -376,3 +376,5 @@ lib/motor/include/Component.h:
 /usr/include/newlib/strings.h:
 
 /usr/include/newlib/sys/string.h:
+
+lib/motor/include/memory.h:
